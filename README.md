@@ -55,11 +55,13 @@
 - [The pico-printer](https://github.com/untoxa/pico-gb-printer), originating from the [pico-webserver](https://github.com/maxnet/pico-webserver), supports the ultra-fast printing mode of Photo!
 - The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a PIC24FJ128.
 - The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie.
+- The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by BennVenn.
 - The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) dating from 1998 and using a parallel port and DOS.
 - An [ESP32 Game Boy Printer emulator](https://github.com/tidklaas/esp32-gameboy-printer) based on an [ESP8266 version](https://github.com/applefreak/esp8266-gameboy-printer). Also a branch based on this emulator compatible with the [Phomemo T02 printer](https://github.com/iamjackg/esp32-phomemo-gameboy-printer).
 - An [ESC/POS compatible](https://github.com/xx0x/gbpxl) Game Boy Printer emulator and a version allowing [Bluetooth compatibility](https://github.com/CustardFlan/gbpxl-BT).
 - A [flipper Zero compatible](https://github.com/kbembedded/flipper-gb-printer) Game Boy Printer emulator.
 - A [PIC16F18857 compatible](https://github.com/bereczistvan/pic-gb-printer) Game Boy Printer emulator.
+- A repo with [PCBs for open source printer emulators](https://github.com/Raphael-Boichot/Collection-of-PCB-for-Game-Boy-Printer-Emulators).
 
 ## Emulators overlays
  - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython) and [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui).
