@@ -14,15 +14,15 @@
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it.
 
 ## Custom roms
-- [Photo!](https://github.com/untoxa/gb-photo) is the most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
-- [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio) is the prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
+- [Photo!](https://github.com/untoxa/gb-photo), most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
+- [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio), prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
 
 ## Rom/save hacks
 - The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained. Unleash the power of your Game Boy Camera !
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames), Python script to replace the built-in frames in the Game Boy Camera rom with your own.
 
 ## Hacks
-- [The DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam). A DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico.
+- [The DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam), a DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico.
 - [The CMOS Holga](https://github.com/mupfdev/CMOS-Holga). A DIY digital camera using the Mitsubishi M64282FP image sensor and a STM32.
 - [GBCamcorder](https://github.com/furrtek/GBCameraProjects/tree/master/GBCamcorder) and [GBLiveCam](https://github.com/furrtek/GBCameraProjects/tree/master/GBLiveCam), Lo-Fi portable video recorder and USB webcam using a GameBoy Camera cartridge. More on the GBCamcorder [here](http://furrtek.free.fr/?a=gbcc).
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54), Game Boy Camera Photos with a TI Calculator.
