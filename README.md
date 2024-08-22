@@ -59,7 +59,7 @@
 - The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a PIC24FJ128.
 - The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie, based on ESP8266.
 - The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by BennVenn, based on STM32.
-- The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) dating from 1998 and using a parallel port and DOS.
+- The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) dating from 1998 and using a parallel port and DOS, by Martin Eyre.
 - An [ESP32 Game Boy Printer emulator](https://github.com/tidklaas/esp32-gameboy-printer) based on an [ESP8266 version](https://github.com/applefreak/esp8266-gameboy-printer). Also a branch based on this emulator compatible with the [Phomemo T02 printer](https://github.com/iamjackg/esp32-phomemo-gameboy-printer).
 - An [ESC/POS compatible](https://github.com/xx0x/gbpxl) Game Boy Printer emulator and a version allowing [Bluetooth compatibility](https://github.com/CustardFlan/gbpxl-BT).
 - A [flipper Zero compatible](https://github.com/kbembedded/flipper-gb-printer) Game Boy Printer emulator.
@@ -86,12 +86,14 @@
 ## Hacks
 - [Game Boy Printer reverse ingineering](http://furrtek.free.fr/?a=gbprinter) by Furrtek.
 - [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
-- The [AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer with a washing machine full bridge rectifier.
+- The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer with a washing machine full bridge rectifier.
 
 ## Custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter), well, to print banners with the Game Boy Printer.
 - [Blarble 1290](https://8bittygames.com/blarble1290/), make your printer alive ! (compatible with Seiko printer only).
 - A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information, just try it.
+- [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0) by Jeff Frohwein.
+
 # Social media
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki), most comprensive wiki about the Game Boy Camera / Game Boy Printer.
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
