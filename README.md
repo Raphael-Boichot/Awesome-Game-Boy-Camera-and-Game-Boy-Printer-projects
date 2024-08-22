@@ -11,9 +11,12 @@
 - [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR and [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) by InsideGadget.
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera).
 
-## Custom roms / romhacks
+## Custom roms
 - [Photo!](https://github.com/untoxa/gb-photo) is the most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
 - [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio) is the prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
+
+## Rom/save hacks
+- The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained. Unleash the power of your Game Boy Camera !
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames), Python script to replace the built-in frames in the Game Boy Camera rom with your own.
 
 ## Hacks
@@ -28,7 +31,6 @@
 - [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [source](https://github.com/BackupGGCode/avr-gameboy-cam).
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo!
-- The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained. Unleash the power of your Game Boy Camera !
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
