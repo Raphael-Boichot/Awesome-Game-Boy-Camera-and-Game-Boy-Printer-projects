@@ -1,7 +1,7 @@
 
 # Awesome Game Boy Camera / Game Boy Printer project list
 
-## A curated list of projects about Game Boy Camera and Game Boy Printer. Contributions are welcome.
+## A curated list of projects about Game Boy Camera and Game Boy Printer.
 
 - **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented project are dismissed). Non open sourced and commercial devices are of course part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also banned. Non specific devices as flashers are not included either.
