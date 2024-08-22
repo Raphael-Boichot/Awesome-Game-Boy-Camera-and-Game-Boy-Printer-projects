@@ -50,7 +50,6 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [Gameboy Camera CS mount to Pentax 110](https://www.thingiverse.com/thing:3256746) lens adapter (requires shell).
 - [Game Boy Camera+](https://ko-fi.com/s/9457d1cc6e) shell mod with CS mount adapter and the same in short, the [Game Boy Camera+ mini](https://ko-fi.com/s/a4d7bd649a).
 - [Original Gameboy Camera shell 1:1](https://github.com/hatchman/Game-Boy-Camera-Shell) remodeling from scratch.
-- [Camera M2](https://github.com/gameboycamera/Camera-M2), a Game Boy redesigned specifically for Game Boy Camera use.
 - [Game Boy Macro Camera](https://github.com/gameboycamera/game-boy-macro-camera), make your own Game Boy Camera cart resized to a typical cart.
 - The [Gopro mount mod](https://sebastientourneux.fr/gameboy-camera-gopro-mount/) by Sébastien Tourneux.
 
