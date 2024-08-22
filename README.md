@@ -73,7 +73,7 @@
 ## PC to printer interfaces
 - The [PC to Game Boy Printer interface](http://furrtek.free.fr/?a=gbpcable), based on a PL2303.
 - The [PC to Game Boy Printer interface](https://github.com/Raphael-Boichot/PC-to-Game-Boy-Printer-interface), based on an Arduino and a [Python library](https://github.com/pedro-q/GBPrint) to control it.
-- [Arduino library](https://github.com/octavifs/GBPrinter) for Game Boy Printer.
+- An [Arduino library](https://github.com/octavifs/GBPrinter) for Game Boy Printer.
 - Another [Arduino library](https://github.com/karpour/GameBoyPrinter-Arduino) for Game Boy Printer.
 - Yet another [Arduino library](https://github.com/davedarko/GBPrinter) for Game Boy Printer.
 - Printing on the Game Boy Printer [using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/).
