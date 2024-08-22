@@ -28,9 +28,12 @@
 - [A project from 2012](http://www.pidream.net/2012/08/120805.html), interfacing a M64282FP with an Arduino.
 - [Another project from 2012](https://blog.kemushicomputer.com/2012/12/lsi.html), astrophotography with a M64282FP sensor by downclocking it.
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno.
+- A [custom sensor PCB](https://github.com/HerrZatacke/M64283FP-Camera-PCB) to decrease light leaks and adapt the M642882FP/M64283FP sensors.
+- A [custom sensor PCB](https://facelesstech.wordpress.com/2023/07/03/gameboy-camera-led-flash/) to add a flash to the Camera and [another one](https://github.com/HDR/Game-Boy-Camera-Flash-Sensor-Module) doing the same.
 - [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [source](https://github.com/BackupGGCode/avr-gameboy-cam).
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo!
+- The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained !
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
