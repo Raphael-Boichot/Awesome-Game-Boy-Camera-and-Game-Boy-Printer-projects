@@ -49,7 +49,7 @@
 # Game Boy Printer
 
 ## Emulators
-- The [Arduino Game Boy Printer emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator), the most versatile emulator, supporting the 110 games compatible with the printer.
+- The [Arduino Game Boy Printer emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator), the most versatile emulator, supporting the 110 games compatible with the printer. The [Retrospy](https://retro-spy.com/product/pixel-gameboy-printer/) is exactly the same device.
 - The [NeoGB Printer](https://github.com/zenaro147/NeoGB-Printer), autonomous printer emulator originating from the previous project and printing directly to an SD card, powered by an ESP32.
 - The [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator), based on the Arduino Game Boy Printer emulator and using an ESP8266 board/Wifi.
 - [The pico-printer](https://github.com/untoxa/pico-gb-printer), originating from the [pico-webserver](https://github.com/maxnet/pico-webserver), supports the ultra-fast printing mode of Photo!
