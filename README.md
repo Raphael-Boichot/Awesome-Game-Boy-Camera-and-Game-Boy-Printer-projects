@@ -91,7 +91,7 @@
 ## Custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter), well, to print banners with the Game Boy Printer.
 - [Blarble 1290](https://8bittygames.com/blarble1290/), make your printer alive ! (compatible with Seiko printer only).
-- A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information just try it.
+- A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information, just try it.
 # Social media
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki), most comprensive wiki about the Game Boy Camera / Game Boy Printer.
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
