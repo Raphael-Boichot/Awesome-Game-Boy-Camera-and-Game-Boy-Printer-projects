@@ -52,10 +52,10 @@
 - The [Arduino Game Boy Printer emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator), the most versatile emulator, supporting the 110 games compatible with the printer. The [Retrospy](https://retro-spy.com/product/pixel-gameboy-printer/) is exactly the same device.
 - The [NeoGB Printer](https://github.com/zenaro147/NeoGB-Printer), autonomous printer emulator originating from the previous project and printing directly to an SD card, powered by an ESP32.
 - The [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator), based on the Arduino Game Boy Printer emulator and using an ESP8266 board/Wifi.
-- [The pico-printer](https://github.com/untoxa/pico-gb-printer), originating from the [pico-webserver](https://github.com/maxnet/pico-webserver), supports the ultra-fast printing mode of Photo!
+- [The pico-printer](https://github.com/untoxa/pico-gb-printer), originating from the [pico-webserver](https://github.com/maxnet/pico-webserver), supports the ultra-fast printing mode of Photo! Based on a Raspberry Pi Pico.
 - The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a PIC24FJ128.
-- The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie.
-- The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by BennVenn.
+- The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie, based on ESP8266.
+- The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by BennVenn, based on STM32.
 - The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) dating from 1998 and using a parallel port and DOS.
 - An [ESP32 Game Boy Printer emulator](https://github.com/tidklaas/esp32-gameboy-printer) based on an [ESP8266 version](https://github.com/applefreak/esp8266-gameboy-printer). Also a branch based on this emulator compatible with the [Phomemo T02 printer](https://github.com/iamjackg/esp32-phomemo-gameboy-printer).
 - An [ESC/POS compatible](https://github.com/xx0x/gbpxl) Game Boy Printer emulator and a version allowing [Bluetooth compatibility](https://github.com/CustardFlan/gbpxl-BT).
