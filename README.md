@@ -9,7 +9,8 @@
 Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not for sure.
 
 # Game Boy Camera
-## Flashable Camera
+
+## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) (Mini board).
 - [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR (regular board).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
