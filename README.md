@@ -26,7 +26,7 @@
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54), Game Boy Camera Photos with a TI Calculator.
 - [A project from 2001](https://archive.seattlerobotics.org/encoder/200205/gbcam.html), implementing Vision Using a Game Boy Camera on the MRM.
 - [A project from 2012](http://www.pidream.net/2012/08/120805.html), interfacing a M64282FP with an Arduino.
-- [Another project from 2012](https://blog.kemushicomputer.com/2012/12/lsi.html), astrophotography with a M64282FP sensor.
+- [Another project from 2012](https://blog.kemushicomputer.com/2012/12/lsi.html), astrophotography with a M64282FP sensor by downclocking it.
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno.
 - [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [source](https://github.com/BackupGGCode/avr-gameboy-cam).
