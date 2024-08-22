@@ -6,6 +6,8 @@
 - **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented project are dismissed). Non open sourced and commercial devices are of course part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also banned. Non specific devices as flashers are not included either.
 
+Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not.
+
 # Game Boy Camera
 ## Flashable Camera
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera).
