@@ -69,7 +69,7 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - A [PIC16F18857 compatible](https://github.com/bereczistvan/pic-gb-printer) Game Boy Printer emulator.
 - A repo with [PCBs for open source printer emulators](https://github.com/Raphael-Boichot/Collection-of-PCB-for-Game-Boy-Printer-Emulators).
 
-## Emulators overlays
+## Emulator overlays
  - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython) and [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui).
 - The [GBCamera-Android-Manager](https://github.com/Mraulio/GBCamera-Android-Manager) Android App for the Arduino Game Boy Printer emulator.
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home), website to decode, arrange and store images from the Arduino Game Boy Printer emulator. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
@@ -89,18 +89,20 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 ## Hacks
 - [Game Boy Printer reverse ingineering](http://furrtek.free.fr/?a=gbprinter) by Furrtek.
 - [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
-- The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer with a washing machine full bridge rectifier.
+- The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer, made with a washing machine full bridge rectifier.
 
 ## Custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter), well, to print banners with the Game Boy Printer.
 - [Blarble 1290](https://8bittygames.com/blarble1290/), make your printer alive ! (compatible with Seiko printer only).
 - A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information, just try it.
-- [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0) by Jeff Frohwein.
+- [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0), a rom by Jeff Frohwein.
 
 # Social media
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki), most comprensive wiki about the Game Boy Camera / Game Boy Printer.
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera), the Gameboy Camera lair for Hackers and Enthusiasts.
+
+ # Interesting articles
 - [Gameboy Camera : the journey](https://sebastientourneux.fr/gameboy-camera-journey/) by Sébastien Tourneux.
 - [Exhaustive French page](https://www.bourgognegameboy.fr/game-boy-camera/) about the Game Boy Camera.
 - [Game Boy Camera](https://gameboyessentials.com/articles/mgb-006) very fun article, sarcastic as I like.
