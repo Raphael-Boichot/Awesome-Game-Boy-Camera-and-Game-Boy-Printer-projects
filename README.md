@@ -82,7 +82,7 @@
 - The [AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer.
 
 ## Custom roms
-- [GB Banner printer](https://github.com/reini1305/gb_bannerprinter), well, to printer banners with the Game Boy Printer.
+- [GB Banner printer](https://github.com/reini1305/gb_bannerprinter), well, to print banners with the Game Boy Printer.
 - [Blarble 1290](https://8bittygames.com/blarble1290/), make your printer alive ! (compatible with Seiko printer only).
 - A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information.
 # Social media
