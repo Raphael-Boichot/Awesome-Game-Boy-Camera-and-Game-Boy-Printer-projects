@@ -10,8 +10,8 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 
 # Game Boy Camera
 ## Flashable Camera
-- [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera).
-- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR.
+- [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) (Mini board).
+- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR (regular board).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget.
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it.
 
