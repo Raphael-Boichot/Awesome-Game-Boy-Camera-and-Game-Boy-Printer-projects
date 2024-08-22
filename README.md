@@ -71,7 +71,7 @@
 - The [GBCamera-Android-Manager](https://github.com/Mraulio/GBCamera-Android-Manager) Android App for the Arduino Game Boy Printer emulator.
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home), website to decode, arrange and store images from the Arduino Game Boy Printer emulator. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
 - A [Java application](https://github.com/lukasklinger/GameBoyPrinterReceiver) for the Arduino Game Boy Printer emulator.
-- A [Matlab/GNU Octave code](https://github.com/Raphael-Boichot/GameboyPrinterPaperSimulation) to decode images from the Arduino Game Boy Printer emulator with e-paper feature.
+- A [Matlab/GNU Octave code](https://github.com/Raphael-Boichot/GameboyPrinterPaperSimulation) to decode images from the Arduino Game Boy Printer emulator with e-paper feature and the curated list of compatible games.
 
 ## PC to printer interfaces
 - The [PC to Game Boy Printer interface](http://furrtek.free.fr/?a=gbpcable), based on a PL2303.
@@ -81,17 +81,17 @@
 - Yet another [Arduino library](https://github.com/davedarko/GBPrinter) for Game Boy Printer.
 - Printing on the Game Boy Printer [using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/).
 - Printing on the Game Boy Printer [using an Arduino and SD shield](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer).
-- [GB Print](https://github.com/pedro-q/GBPrint), simple command line Python interface for sending images to a Game Boy Printer
+- [GB Print](https://github.com/pedro-q/GBPrint), simple command line Python interface for sending images to a Game Boy Printer with an Arduino. 
 
 ## Hacks
 - [Game Boy Printer reverse ingineering](http://furrtek.free.fr/?a=gbprinter) by Furrtek.
-- [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heck.
+- [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
 - The [AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer with a washing machine full bridge rectifier.
 
 ## Custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter), well, to print banners with the Game Boy Printer.
 - [Blarble 1290](https://8bittygames.com/blarble1290/), make your printer alive ! (compatible with Seiko printer only).
-- A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information.
+- A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) without much information just try it.
 # Social media
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki), most comprensive wiki about the Game Boy Camera / Game Boy Printer.
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
