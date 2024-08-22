@@ -10,6 +10,8 @@
 ## Flashable Camera
 - [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR and [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) by InsideGadget.
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera).
+- [Game Boy Macro Camera](https://github.com/gameboycamera/game-boy-macro-camera), make your own Game Boy Camera cart resized to a typical cart.
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera), Game Boy Camera cart redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it.
 
 ## Custom roms
 - [Photo!](https://github.com/untoxa/gb-photo) is the most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
@@ -44,8 +46,6 @@
 - [Gameboy Camera CS mount to Pentax 110](https://www.thingiverse.com/thing:3256746) lens adapter (requires shell).
 - [Game Boy Camera+](https://ko-fi.com/s/9457d1cc6e) shell mod with CS mount adapter and the same in short, the [Game Boy Camera+ mini](https://ko-fi.com/s/a4d7bd649a).
 - [Original Gameboy Camera shell 1:1](https://github.com/hatchman/Game-Boy-Camera-Shell) remodeling from scratch.
-- [Game Boy Macro Camera](https://github.com/gameboycamera/game-boy-macro-camera), make your own Game Boy Camera cart resized to a typical cart.
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera), Game Boy Camera cart redesigned into the size of a typical Game Boy Cart.
 - [Camera M2](https://github.com/gameboycamera/Camera-M2), a Game Boy redesigned specifically for Game Boy Camera use.
 
 
