@@ -21,7 +21,7 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio), prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
 
 ## Rom/save hacks
-- The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained. Unleash the power of your Game Boy Camera !
+- The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained. Cheat at minigames, unlock hidden features, calibrate your camera, and more !
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames), Python script to replace the built-in frames in the Game Boy Camera rom with your own.
 
 ## Hacks
