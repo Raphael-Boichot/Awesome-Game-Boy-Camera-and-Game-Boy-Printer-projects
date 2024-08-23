@@ -4,7 +4,7 @@
 ## A curated list of projects about Game Boy Camera and Game Boy Printer.
 
 - **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented / unintelligible project are dismissed). Non open sourced and commercial devices are of course part of the game.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also banned. Non specific projects as flashers are not included either.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also dismissed. 
 
 Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not for sure.
 
@@ -41,6 +41,10 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo!
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained !
 - [High resolution images](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project) of the MAC-GBD mapper.
+
+## Extract pictures with a flasher
+- [Game Boy Camera Fast Wifi Adapter](https://github.com/MattGrayYes/Game-Boy-Camera-Fast-Wifi-Adapter) by MattGrayYes.
+- 
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
