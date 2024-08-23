@@ -50,7 +50,7 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) by jkbenaim, requires a flasher.
 - [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
 - [Rombus Game Boy camera dumper](https://github.com/Rombusevil/rgbcdumper) by Rombusevil, requires a flasher.
-
+- [Obscura](https://github.com/svendahlstrand/obscura) by svendahlstrand, requires a flasher.
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
 - [Game Boy Camera to M42](https://www.thingiverse.com/thing:6077684) lens mount (requires shell).
