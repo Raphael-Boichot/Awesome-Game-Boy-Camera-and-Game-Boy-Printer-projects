@@ -25,8 +25,8 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames), Python script to replace the built-in frames in the Game Boy Camera rom with your own.
 
 ## Hacks
-- [The DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam), a DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico.
-- [The CMOS Holga](https://github.com/mupfdev/CMOS-Holga). A DIY digital camera using the Mitsubishi M64282FP image sensor and a STM32.
+- The [DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam), a DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico.
+- The [CMOS Holga](https://github.com/mupfdev/CMOS-Holga). A DIY digital camera using the Mitsubishi M64282FP image sensor and a STM32.
 - The [PicNRec](https://shop.insidegadgets.com/product/gameboy-camera-picnrec/) by InsideGadget.
 - [GBCamcorder](https://github.com/furrtek/GBCameraProjects/tree/master/GBCamcorder) and [GBLiveCam](https://github.com/furrtek/GBCameraProjects/tree/master/GBLiveCam), Lo-Fi portable video recorder and USB webcam using a GameBoy Camera cartridge. More on the GBCamcorder [here](http://furrtek.free.fr/?a=gbcc).
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54), Game Boy Camera Photos with a TI Calculator.
