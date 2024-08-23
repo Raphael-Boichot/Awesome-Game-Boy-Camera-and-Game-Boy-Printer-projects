@@ -3,7 +3,7 @@
 
 ## A curated list of projects about Game Boy Camera and Game Boy Printer.
 
-- **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented / unintelligible project are dismissed). Non open sourced and commercial devices are of course part of the game.
+- **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented / unintelligible / unworking projects are dismissed). Non open sourced and commercial devices are of course part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also dismissed. 
 
 Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not for sure.
@@ -41,6 +41,7 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo!
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained !
 - [High resolution images](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project) of the MAC-GBD mapper.
+- [Game Boy Camera Picture of Picture Reverser](https://github.com/leecwj/gbc-poprev), to recover images from a Game Boy screen capture.
 
 ## Extract pictures with a flasher
 - The [Joey Junior](https://bennvenn.myshopify.com/pages/the-joey-junior-gb-gbc-gba-cart-dumper-and-flasher) by Benn Venn.
@@ -51,6 +52,10 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
 - [Rombus Game Boy camera dumper](https://github.com/Rombusevil/rgbcdumper) by Rombusevil, requires a flasher.
 - [Obscura](https://github.com/svendahlstrand/obscura) by svendahlstrand, requires a flasher.
+- [gbcamtool](https://github.com/Lana-chan/gbcamtool), online tool by Lana-chan, , requires a flasher.
+- [Gameboy.photography](https://github.com/edd/gameboy.photography), online tool by edd, requires a flasher.
+- [gbcamconv](https://github.com/grosshei/gbcamconv) by grosshei, requires a flasher.
+
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
 - [Game Boy Camera to M42](https://www.thingiverse.com/thing:6077684) lens mount (requires shell).
