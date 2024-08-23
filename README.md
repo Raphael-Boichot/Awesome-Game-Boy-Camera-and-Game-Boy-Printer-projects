@@ -43,8 +43,12 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [High resolution images](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project) of the MAC-GBD mapper.
 
 ## Extract pictures with a flasher
-- [Game Boy Camera Fast Wifi Adapter](https://github.com/MattGrayYes/Game-Boy-Camera-Fast-Wifi-Adapter) by MattGrayYes.
-- 
+- The [Joey Junior](https://bennvenn.myshopify.com/pages/the-joey-junior-gb-gbc-gba-cart-dumper-and-flasher) by Benn Venn.
+- The [GBxCart](https://www.gbxcart.com/) with [FlashGBX](https://github.com/lesserkuma/FlashGBX).
+- [Game Boy Camera Fast Wifi Adapter](https://github.com/MattGrayYes/Game-Boy-Camera-Fast-Wifi-Adapter) by MattGrayYes, based on the GBxCart.
+- [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, requires a flasher.
+- [gbcamextract](https://github.com/jkbenaim/gbcamextract) by jkbenaim, requires a flasher.
+- [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
@@ -76,7 +80,7 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - A repo with [PCBs for open source printer emulators](https://github.com/Raphael-Boichot/Collection-of-PCB-for-Game-Boy-Printer-Emulators).
 
 ## Emulator overlays
- - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython) and [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui).
+ - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython), [another CLI version](https://github.com/raster/Game-Boy-Camera-Dumper) and a [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui).
 - The [GBCamera-Android-Manager](https://github.com/Mraulio/GBCamera-Android-Manager) Android App for the Arduino Game Boy Printer emulator.
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home), website to decode, arrange and store images from the Arduino Game Boy Printer emulator. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
 - A [Java application](https://github.com/lukasklinger/GameBoyPrinterReceiver) for the Arduino Game Boy Printer emulator.
