@@ -49,6 +49,7 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, requires a flasher.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) by jkbenaim, requires a flasher.
 - [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
+- [Rombus Game Boy camera dumper](https://github.com/Rombusevil/rgbcdumper) by Rombusevil, requires a flasher.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount (requires shell).
@@ -78,13 +79,14 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - A [flipper Zero compatible](https://github.com/kbembedded/flipper-gb-printer) Game Boy Printer emulator.
 - A [PIC16F18857 compatible](https://github.com/bereczistvan/pic-gb-printer) Game Boy Printer emulator.
 - A repo with [PCBs for open source printer emulators](https://github.com/Raphael-Boichot/Collection-of-PCB-for-Game-Boy-Printer-Emulators).
-
+- The [Serial Boy](https://github.com/francoiswnel/Serial-Boy), a breakout PCB to connect the serial cable to the Arduino Game Boy Printer emulator.
+  
 ## Emulator overlays
  - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython), [another CLI version](https://github.com/raster/Game-Boy-Camera-Dumper) and a [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui).
 - The [GBCamera-Android-Manager](https://github.com/Mraulio/GBCamera-Android-Manager) Android App for the Arduino Game Boy Printer emulator.
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home), website to decode, arrange and store images from the Arduino Game Boy Printer emulator. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
 - A [Java application](https://github.com/lukasklinger/GameBoyPrinterReceiver) for the Arduino Game Boy Printer emulator.
-- A [Matlab/GNU Octave code](https://github.com/Raphael-Boichot/GameboyPrinterPaperSimulation) to decode images from the Arduino Game Boy Printer emulator with e-paper feature and the curated list of compatible games.
+- A [Matlab/GNU Octave code](https://github.com/Raphael-Boichot/GameboyPrinterPaperSimulation) to decode images from the Arduino Game Boy Printer emulator with e-paper feature and the curated list of compatible games. e-paper feature also implemented in [this project](https://github.com/mtouzot/GameBEye).
 
 ## PC to printer interfaces
 - The [PC to Game Boy Printer interface](http://furrtek.free.fr/?a=gbpcable), based on a PL2303.
