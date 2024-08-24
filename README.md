@@ -41,7 +41,6 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo!
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained !
 - [High resolution images](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project) of the MAC-GBD mapper.
-- [Game Boy Camera Picture of Picture Reverser](https://github.com/leecwj/gbc-poprev), to recover images from a Game Boy screen capture.
 
 ## Extract pictures with a flasher
 - The [Joey Junior](https://bennvenn.myshopify.com/pages/the-joey-junior-gb-gbc-gba-cart-dumper-and-flasher) by Benn Venn.
