@@ -31,6 +31,7 @@ Some projets are yet listed in the [awesome-gbdev project](https://github.com/gb
 - [GBCamcorder](https://github.com/furrtek/GBCameraProjects/tree/master/GBCamcorder) and [GBLiveCam](https://github.com/furrtek/GBCameraProjects/tree/master/GBLiveCam), Lo-Fi portable video recorder and USB webcam using a GameBoy Camera cartridge. More on the GBCamcorder [here](http://furrtek.free.fr/?a=gbcc).
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54), Game Boy Camera Photos with a TI Calculator.
 - [A project from 2001](https://archive.seattlerobotics.org/encoder/200205/gbcam.html), implementing Vision Using a Game Boy Camera on the MRM.
+- [A project from 2005](http://sophiateam.undrgnd.free.fr/microcontroller/camera/) Game Boy camera / PC - Serial interface.
 - [A project from 2012](http://www.pidream.net/2012/08/120805.html), interfacing a M64282FP with an Arduino.
 - [Another project from 2012](https://blog.kemushicomputer.com/2012/12/lsi.html), astrophotography with a M64282FP sensor by downclocking it.
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno.
