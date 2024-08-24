@@ -129,4 +129,4 @@ Some projets are yet listed in the [awesome-gbdev project](https://github.com/gb
 - [PetaPixel](https://petapixel.com/hack-game-boy-camera-mount-lenses/) How to Hack a Game Boy Camera to Use ‘Real’ Camera Lenses.
 - [gameboymaniac.com](https://gameboymaniac.com/) Lots of tips to enhance your Game Boy Camera.
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html) by Daniel S. Baxter, alias Shonumi. His [book](https://shonumi.github.io/books.html) is excellent.
-- [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer
+- [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
