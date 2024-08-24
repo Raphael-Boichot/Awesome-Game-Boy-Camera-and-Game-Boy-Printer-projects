@@ -124,3 +124,4 @@ Some projets are probably yet listed in the [awesome-gbdev project](https://gith
 - [Exhaustive French page](https://www.bourgognegameboy.fr/game-boy-camera/) about the Game Boy Camera.
 - [Game Boy Camera](https://gameboyessentials.com/articles/mgb-006) very fun article, sarcastic as I like.
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html) by Daniel S. Baxter, alias Shonumi. His [book](https://shonumi.github.io/books.html) is excellent.
+- [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer
