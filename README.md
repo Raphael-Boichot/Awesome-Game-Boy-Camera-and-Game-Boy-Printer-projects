@@ -117,7 +117,7 @@ Some projets are yet listed in the [awesome-gbdev project](https://github.com/gb
 
 # Social media
 
- ## Relevant servers
+ ## Dedicated servers
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera), the Gameboy Camera lair for Hackers and Enthusiasts.
 
