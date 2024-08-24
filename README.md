@@ -6,7 +6,7 @@
 - **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented / unintelligible / unworking projects are dismissed). Non open sourced and commercial devices are of course part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also dismissed. 
 
-Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not for sure.
+Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not, so this project.
 
 # Game Boy Camera
 
