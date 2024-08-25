@@ -123,6 +123,7 @@ Some projets are yet listed in the [awesome-gbdev project](https://github.com/gb
 
  ## Interesting articles/sites
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki), most comprensive wiki about the Game Boy Camera / Game Boy Printer.
+- [Game Boy Camera µZine 2024](https://cameraclub.gbdev.io/uzine2024/), issued by the Game Boy Camera Club Telegram.
 - [Gameboy Camera : the journey](https://sebastientourneux.fr/gameboy-camera-journey/) by Sébastien Tourneux.
 - [Exhaustive French page](https://www.bourgognegameboy.fr/game-boy-camera/) about the Game Boy Camera.
 - [Game Boy Camera](https://gameboyessentials.com/articles/mgb-006) very fun article, sarcastic as I like.
