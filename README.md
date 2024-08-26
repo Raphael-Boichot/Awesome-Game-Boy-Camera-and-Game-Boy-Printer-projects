@@ -8,6 +8,8 @@
 
 Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not, so this project.
 
+PRs are of course welcome if I forgot one.
+
 # Game Boy Camera
 
 ## Flashable Cameras
