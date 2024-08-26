@@ -54,7 +54,7 @@ PRs are of course welcome if I forgot one.
 - [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
 - [Rombus Game Boy camera dumper](https://github.com/Rombusevil/rgbcdumper) by Rombusevil, requires a flasher.
 - [Obscura](https://github.com/svendahlstrand/obscura) by svendahlstrand, requires a flasher.
-- [gbcamtool](https://github.com/Lana-chan/gbcamtool), online tool by Lana-chan, , requires a flasher.
+- [gbcamtool](https://github.com/Lana-chan/gbcamtool), online tool by Lana-chan, requires a flasher.
 - [Gameboy.photography](https://github.com/edd/gameboy.photography), online tool by edd, requires a flasher.
 - [gbcamconv](https://github.com/grosshei/gbcamconv) by grosshei, requires a flasher.
 
