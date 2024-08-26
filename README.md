@@ -3,8 +3,8 @@
 
 ## A curated list of projects about Game Boy Camera and Game Boy Printer.
 
-- **Are listed:** project with a proof that it did something and/or with a sufficient level of explanation (unfinished / undocumented / unintelligible / unworking projects are dismissed). Non open sourced and commercial devices are of course part of the game.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is also dismissed. 
+- **Are listed:** projects with a proof that it did something and/or with a sufficient level of explanation (and I'm very tolerant). Commercial devices are of course part of the game.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Unfinished / undocumented / unintelligible / unworking / pointless projects are also dismissed.
 
 Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not, so this project.
 
@@ -13,7 +13,7 @@ Some projets are yet listed in the [awesome-gbdev project](https://github.com/gb
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (Mini board) and my own [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it.
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by Christopher Graves (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it.
 - [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart), the first documented project (regular board).
 
 ## Custom roms
