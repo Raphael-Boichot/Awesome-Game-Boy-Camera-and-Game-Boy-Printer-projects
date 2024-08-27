@@ -13,9 +13,9 @@ PRs are of course welcome if I forgot one.
 # Game Boy Camera
 
 ## Flashable Cameras
-- [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (Mini board) and my own [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera).
+- [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (Mini board) and my own [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera). Project is license free.
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by Christopher Graves (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it. Beware, the project is covered by very rare case of [not commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/) that is [anyway a bit commercial, but not much](https://ko-fi.com/s/5a678033de).
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by Christopher Graves (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it. Beware, the project is covered by very rare kind of [not commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/) that is [anyway commercial, but very just a little bit](https://ko-fi.com/s/5a678033de).
 - [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR, the first published project (regular board), coming with it's childish [Wall of Shame](https://github.com/HDR/Licence-Violation-Hall-Of-Shame) if you dare applying the license that the author himself does not understand (see preceding case.
 
 ## Custom roms
