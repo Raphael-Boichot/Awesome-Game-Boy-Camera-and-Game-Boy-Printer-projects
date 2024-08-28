@@ -15,8 +15,8 @@ PRs are of course welcome if I forgot one.
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (Mini board) and my own [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera). Project is license free.
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it. The project is issued with a very rare case of Schrödinger's license which is [non commercial](https://github.com/gameboycamera/game-boy-mini-camera/blob/69c3bc5e40f05a2e0f1a389bf258cf8a029b5c3d/license#L29) and [commercial ](https://ko-fi.com/s/5a678033de) in a quantum superposition of states.
-- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart), the first published project (regular board), coming with its [Wall of Shame](https://github.com/HDR/Licence-Violation-Hall-Of-Shame) and [defamation tweets](https://x.com/MartinRefseth/status/1736793436664049988), if you dare understanding its license [better than the author himself](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses).
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it.
+- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart), the first published project (regular board).
 
 ## Custom roms
 - [Photo!](https://github.com/untoxa/gb-photo), most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
@@ -73,7 +73,7 @@ PRs are of course welcome if I forgot one.
 # Game Boy Printer
 
 ## Emulators
-- The [Arduino Game Boy Printer emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator), the most versatile emulator, supporting the 110 games compatible with the printer. The [Retrospy Pixel](https://retro-spy.com/product/pixel-gameboy-printer/) is just a shameless copy with a laughable image converter.
+- The [Arduino Game Boy Printer emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator), the most versatile emulator, supporting the 110 games compatible with the printer. The [Retrospy Pixel](https://retro-spy.com/product/pixel-gameboy-printer/) is just a simple copy.
 - The [NeoGB Printer](https://github.com/zenaro147/NeoGB-Printer), autonomous printer emulator originating from the previous project and printing directly to an SD card, powered by an ESP32.
 - The [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator), based on the Arduino Game Boy Printer emulator and using an ESP8266 board/Wifi, with its [dedicated PCB](https://github.com/cristofercruz/gbp-esp-shield-pcb).
 - [The pico-printer](https://github.com/untoxa/pico-gb-printer), originating from the [pico-webserver](https://github.com/maxnet/pico-webserver), supports the ultra-fast printing mode of Photo! Based on a Raspberry Pi Pico.
