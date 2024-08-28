@@ -62,7 +62,7 @@ PRs are of course welcome if I forgot one.
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
 - [Game Boy Camera to Canon](https://www.thingiverse.com/thing:4337362) lens mount by HerrZatacke (requires shell).
 - [Game Boy Camera to M42](https://www.thingiverse.com/thing:6077684) lens mount by drago (requires shell).
-- [Gameboy Camera D mount](https://www.thingiverse.com/thing:4933017) adapter (requires shell).
+- [Gameboy Camera D mount](https://www.thingiverse.com/thing:4933017) adapter by W33dWiz420 (requires shell).
 - [Gameboy Camera to Pentax-K / Canon EF](https://www.thingiverse.com/thing:3256746) adapter with shell.
 - [Gameboy Camera CS mount to Pentax 110](https://www.thingiverse.com/thing:3256746) lens adapter (requires shell).
 - [Game Boy Camera+](https://ko-fi.com/s/9457d1cc6e) shell mod with CS mount adapter and the same in short, the [Game Boy Camera+ mini](https://ko-fi.com/s/a4d7bd649a), by 2BitToy.
