@@ -112,6 +112,7 @@ PRs are of course welcome if I forgot one.
 - [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
 - The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer by Furrtek, made with a washing machine full bridge rectifier.
 - The [full schematic and gerbers](https://github.com/RWeick/IF-GBP-02-Gameboy-Printer) for the Nintendo Gameboy Printer PCB revision 02, RWeick.
+- The [Laser Range Finder + Game Boy Printer hack](https://www.flickr.com/photos/joesmooth/albums/72157628221975565/) by Joe Grand, print images taken with a laser range finder.
 
 ## Custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter) by reini1305, well, to print banners with the Game Boy Printer.
