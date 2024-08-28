@@ -3,7 +3,7 @@
 
 ## A curated list of projects about Game Boy Camera and Game Boy Printer
 
-- **Are listed:** projects with a proof that they did something and/or with a sufficient level of explanation (and I'm very tolerant). Commercial devices are of course part of the game. Projects issued by people that I consider as pure creeps are also listed because my goal is to be exhaustive (and you're free to sponsor assholes after all).
+- **Are listed:** projects with a proof that they did something and/or with a sufficient level of explanation (and I'm very tolerant). Commercial devices are of course part of the game. Projects issued by people that I consider as pure creeps are also listed because awesome projects are not always made by awesome people.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Unfinished / undocumented / unintelligible / unworking / pointless projects are also dismissed.
 
 Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not, so this list.
@@ -16,7 +16,7 @@ PRs are of course welcome if I forgot one.
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (Mini board) and my own [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera). Project is license free.
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) (Mini board), redesigned into the size of a typical Game Boy Cart and [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label) going with it. Beware, the project is covered by a very rare species of [non commercial license](https://github.com/gameboycamera/game-boy-mini-camera/blob/main/license) that [allows selling it anyway](https://ko-fi.com/s/5a678033de) (but eh, it's a V2, quite a change !).
-- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart), the first published project (regular board), coming with it's childish [Wall of Shame](https://github.com/HDR/Licence-Violation-Hall-Of-Shame) and [defamation tweets](https://x.com/MartinRefseth/status/1736793436664049988) (Yes I'm famous), if you dare applying _stricto sensu_ the license that the author himself does not understand.
+- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart), the first published project (regular board), coming with its childish [Wall of Shame](https://github.com/HDR/Licence-Violation-Hall-Of-Shame) and [defamation tweets](https://x.com/MartinRefseth/status/1736793436664049988) (Yes I'm famous), if you dare applying _stricto sensu_ the license that the author himself does not understand.
 
 ## Custom roms
 - [Photo!](https://github.com/untoxa/gb-photo), most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
