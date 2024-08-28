@@ -39,8 +39,8 @@ PRs are of course welcome if I forgot one.
 - [Another project from 2012](https://blog.kemushicomputer.com/2012/12/lsi.html) by 毛虫計算機, astrophotography with a M64282FP sensor by downclocking it.
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno, by Raphael-Boichot.
 - A [custom sensor PCB](https://github.com/HerrZatacke/M64283FP-Camera-PCB) by HerrZatacke to decrease light leaks and adapt the M642882FP/M64283FP sensors.
-- A [custom sensor PCB](https://facelesstech.wordpress.com/2023/07/03/gameboy-camera-led-flash/) by Facelesstech to add a flash to the Camera inspired from this [another one](https://github.com/HDR/Game-Boy-Camera-Flash-Sensor-Module).
-- [Complete Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz.
+- A [custom sensor PCB](https://facelesstech.wordpress.com/2023/07/03/gameboy-camera-led-flash/) by Facelesstech to add a flash to the Camera, reverse-engineered from this [another one](https://github.com/HDR/Game-Boy-Camera-Flash-Sensor-Module).
+- [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz in order to integrate functions into emulators.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) by shimniok, to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [probable source](https://github.com/BackupGGCode/avr-gameboy-cam).
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo! with the Pico GameBoy printer, by untoxa.
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained, by HerrZatacke !
@@ -90,9 +90,9 @@ PRs are of course welcome if I forgot one.
 - The [Serial Boy](https://github.com/francoiswnel/Serial-Boy) by francoiswnel, a breakout PCB to connect the serial cable to the Arduino Game Boy Printer emulator.
   
 ## Emulator overlays
+- The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home) by herrzatacke, website to decode, arrange and store images from the Arduino Game Boy Printer emulator and saves. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
+- The [GBCamera-Android-Manager](https://github.com/Mraulio/GBCamera-Android-Manager) by Mraulio, an Android App for the Arduino Game Boy Printer emulator and the GBxCart, allowing to take direct control of the Game Boy Printer as well.
  - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython), [another CLI version](https://github.com/raster/Game-Boy-Camera-Dumper) by raster and a [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui) by CelestialQwert.
-- The [GBCamera-Android-Manager](https://github.com/Mraulio/GBCamera-Android-Manager) by Mraulio, an Android App for the Arduino Game Boy Printer emulator.
-- The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home) by herrzatacke, website to decode, arrange and store images from the Arduino Game Boy Printer emulator. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
 - A [Java application](https://github.com/lukasklinger/GameBoyPrinterReceiver) by lukasklinger for the Arduino Game Boy Printer emulator.
 - A [Matlab/GNU Octave code](https://github.com/Raphael-Boichot/GameboyPrinterPaperSimulation) by Raphael-Boichot to decode images from the Arduino Game Boy Printer emulator with e-paper feature and the curated list of compatible games. e-paper feature also implemented in [this project](https://github.com/mtouzot/GameBEye) by mtouzot.
 
