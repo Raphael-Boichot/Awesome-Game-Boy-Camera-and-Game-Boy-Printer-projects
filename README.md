@@ -51,6 +51,7 @@ PRs are of course welcome if I forgot one.
 - The [Joey Junior](https://bennvenn.myshopify.com/pages/the-joey-junior-gb-gbc-gba-cart-dumper-and-flasher) by Benn Venn, with direct conversion of save to images.
 - The [GBxCart](https://www.gbxcart.com/) with [FlashGBX](https://github.com/lesserkuma/FlashGBX) by lesserkuma, with direct conversion of save to images.
 - [Game Boy Camera Fast Wifi Adapter](https://github.com/MattGrayYes/Game-Boy-Camera-Fast-Wifi-Adapter) by MattGrayYes, based on the GBxCart.
+- [HDR image processing](https://github.com/seb-tourneux/gbcam-hdr-utils) by Sébastien Tourneux, take a save made in EAB mode with Photo! and turn it into a 8-bits image ! Requires a flasher.
 - [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, requires a flasher.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) by jkbenaim, requires a flasher.
 - [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
@@ -59,7 +60,6 @@ PRs are of course welcome if I forgot one.
 - [gbcamtool](https://github.com/Lana-chan/gbcamtool), online tool by Lana-chan, requires a flasher.
 - [Gameboy.photography](https://github.com/edd/gameboy.photography), online tool by edd, requires a flasher.
 - [gbcamconv](https://github.com/grosshei/gbcamconv) by grosshei, requires a flasher.
-- [HDR image processing](https://github.com/seb-tourneux/gbcam-hdr-utils) by Sébastien Tourneux, take a save made in EAB mode with Photo! and turn it into a 8-bits image ! Requires a flasher.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
