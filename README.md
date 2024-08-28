@@ -20,7 +20,7 @@ PRs are of course welcome if I forgot one.
 
 ## Custom roms
 - [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
-- [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio) y HerrZatacke, prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
+- [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio) by HerrZatacke, prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
 
 ## Rom/save hacks
 - The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained, by Raphael-Boichot. Cheat at minigames, unlock hidden features, calibrate your camera, and more !
