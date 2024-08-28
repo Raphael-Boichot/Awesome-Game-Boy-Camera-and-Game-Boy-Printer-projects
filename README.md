@@ -106,6 +106,7 @@ PRs are of course welcome if I forgot one.
 - Printing on the Game Boy Printer [using an Arduino and SD shield](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer) by Raphael-Boichot.
 
 ## Hacks
+- The [Game Boy Printer sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) by mofosyne, a middleman to record actual communication between a Game Boy and a printer.
 - [Game Boy Printer reverse ingineering](http://furrtek.free.fr/?a=gbprinter) by Furrtek.
 - [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
 - The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer by Furrtek, made with a washing machine full bridge rectifier.
