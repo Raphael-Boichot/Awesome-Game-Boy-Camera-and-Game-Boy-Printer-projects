@@ -45,7 +45,7 @@ PRs are of course welcome if I forgot one.
 - [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo! with the Pico GameBoy printer, by untoxa.
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained, by HerrZatacke !
 - [High resolution images](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project) of the MAC-GBD mapper, by Raphael-Boichot.
-- The [Game Boy Photo gun](https://vtol.cc/filter/works/gbg-8) by vtol, an all-in-one Camera-Printer-gun.
+- The [Game Boy Photo gun](https://vtol.cc/filter/works/gbg-8) by vtol, an all-in-one Camera-Printer-gun to easily commit suicide by cop.
 
 ## Extract pictures with a flasher
 - The [Joey Junior](https://bennvenn.myshopify.com/pages/the-joey-junior-gb-gbc-gba-cart-dumper-and-flasher) by Benn Venn, with direct conversion of save to images.
