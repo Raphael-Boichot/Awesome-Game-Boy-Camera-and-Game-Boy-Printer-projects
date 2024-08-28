@@ -59,6 +59,7 @@ PRs are of course welcome if I forgot one.
 - [gbcamtool](https://github.com/Lana-chan/gbcamtool), online tool by Lana-chan, requires a flasher.
 - [Gameboy.photography](https://github.com/edd/gameboy.photography), online tool by edd, requires a flasher.
 - [gbcamconv](https://github.com/grosshei/gbcamconv) by grosshei, requires a flasher.
+- [HDR image processing](https://github.com/seb-tourneux/gbcam-hdr-utils) by Sébastien Tourneux, take a save made in EAB mode with Photo! and turn it into a 8-bits image ! Requires a flasher.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
