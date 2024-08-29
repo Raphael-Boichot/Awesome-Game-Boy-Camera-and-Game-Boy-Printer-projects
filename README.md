@@ -104,7 +104,7 @@ PRs are of course welcome if I forgot one.
 - An [Arduino library](https://github.com/octavifs/GBPrinter) for Game Boy Printer, by octavifs.
 - Another [Arduino library](https://github.com/karpour/GameBoyPrinter-Arduino) for Game Boy Printer, by karpour.
 - Yet another [Arduino library](https://github.com/davedarko/GBPrinter) for Game Boy Printer, by davedarko.
-- Printing on the Game Boy Printer [using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/) by Dhole.
+- Printing on the Game Boy Printer [using an STM32F4](https://github.com/Dhole/gb-link-host) by Dhole.
 - Printing on the Game Boy Printer [using an Arduino and SD shield](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer) by Raphael-Boichot.
 
 ## Printer hacks
