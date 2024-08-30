@@ -80,6 +80,8 @@ PRs are of course welcome if I forgot one.
 - The [NeoGB Printer](https://github.com/zenaro147/NeoGB-Printer) by Rafael Zenaro, autonomous printer emulator originating from the previous project and printing directly to an SD card, powered by an ESP32.
 - The [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator) by HerrZatacke, based on the Arduino Game Boy Printer emulator and using an ESP8266 board/Wifi, with its [dedicated PCB](https://github.com/cristofercruz/gbp-esp-shield-pcb).
 - [The Pico GameBoy printer](https://github.com/untoxa/pico-gb-printer) by untoxa, originating from the [pico-webserver](https://github.com/maxnet/pico-webserver) by maxnet, supports the ultra-fast printing mode of Photo! Based on a Raspberry Pi Pico.
+- The [gb-link-printer](https://github.com/stacksmashing/gb-link-printer) by stacksmashing and a [dedicated PCB](https://github.com/agtbaskara/game-boy-pico-link-board).
+- Another [GBPrinterEmu](https://github.com/dj505/GBPrinterEmu) compatible with the stacksmashing board.
 - The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a PIC24FJ128.
 - The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie, based on ESP8266.
 - The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by Benn Venn, based on STM32.
@@ -107,6 +109,7 @@ PRs are of course welcome if I forgot one.
 - Yet another [Arduino library](https://github.com/davedarko/GBPrinter) for Game Boy Printer, by davedarko.
 - Printing on the Game Boy Printer [using an STM32F4](https://github.com/Dhole/gb-link-host) by Dhole.
 - Printing on the Game Boy Printer [using an Arduino and SD shield](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer) by Raphael-Boichot.
+- [Discord printer bot](https://github.com/Squaresweets/GBPrinter-discord-bot) by Squaresweets and the same [without the Discord code](https://github.com/KuestenKeks/pc-to-gb-printer) by KuestenKeks.
 
 ## Printer hacks
 - The [Game Boy Printer sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) by mofosyne, a middleman to record actual communication between a Game Boy and a printer.
