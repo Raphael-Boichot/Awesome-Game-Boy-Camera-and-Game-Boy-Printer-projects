@@ -137,4 +137,4 @@ PRs are of course welcome if I forgot one.
 - [gameboymaniac.com](https://gameboymaniac.com/) by Björn, lots of tips to enhance your Game Boy Camera.
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html) by Daniel S. Baxter, alias Shonumi. His [book](https://shonumi.github.io/books.html) is excellent.
 - [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
-- [The Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
+- The mandatory [Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
