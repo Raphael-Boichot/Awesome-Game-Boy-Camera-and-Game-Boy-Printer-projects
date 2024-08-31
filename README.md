@@ -15,7 +15,7 @@ PRs are welcome if I forgot an awesome thing. This list is of course meant to be
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (mini size board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot.
 - [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR, the first published project (regular size board). Next project is derived from it.
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (Mini board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label).
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
