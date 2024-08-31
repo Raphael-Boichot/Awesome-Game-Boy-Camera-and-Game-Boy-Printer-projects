@@ -31,6 +31,7 @@ PRs are of course welcome if I forgot one.
 - The [CMOS Holga](https://github.com/mupfdev/CMOS-Holga) by mupfdev. A DIY digital camera using the Mitsubishi M64282FP image sensor and a STM32.
 - The [PicNRec](https://shop.insidegadgets.com/product/gameboy-camera-picnrec/) by InsideGadget, middleman device recording images to an SD card.
 - [GBCamcorder](https://github.com/furrtek/GBCameraProjects/tree/master/GBCamcorder) and [GBLiveCam](https://github.com/furrtek/GBCameraProjects/tree/master/GBLiveCam) by Furrtek, Lo-Fi portable video recorder and USB webcam using a GameBoy Camera cartridge. More on the GBCamcorder [here](http://furrtek.free.fr/?a=gbcc).
+- [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo! with the Pico GameBoy printer, by untoxa.
 - The [Gameboy Camera webcam](https://github.com/pimlu/gbcam) by pimlu, USB webcam using the Gameboy Camera.
 - The [Game Boy Camera Sniffer](https://github.com/Raphael-Boichot/Game-Boy-camera-sniffer) by Raphael-Boichot, middleman analog recoder between the Game Boy Camera and its sensor. Sends real images from the sensor (before the MAC-GBD) to SD an card.
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54) by Christopher Mitchell, sends Game Boy Camera sensor images to a TI-84 Plus Calculator.
@@ -43,7 +44,6 @@ PRs are of course welcome if I forgot one.
 - A [custom sensor PCB](https://facelesstech.wordpress.com/2023/07/03/gameboy-camera-led-flash/) by Facelesstech to add a flash to the Camera, reverse-engineered from this [another one](https://github.com/HDR/Game-Boy-Camera-Flash-Sensor-Module).
 - [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz in order to integrate functions into emulators.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) by shimniok, to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [probable source](https://github.com/BackupGGCode/avr-gameboy-cam).
-- [Use the Game Boy Camera as a Webcam](https://github.com/untoxa/pico-gb-webcamera) from Photo! with the Pico GameBoy printer, by untoxa.
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained, by HerrZatacke !
 - [High resolution images](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project) of the MAC-GBD mapper, by Raphael-Boichot.
 - The [Game Boy Photo gun](https://vtol.cc/filter/works/gbg-8) by vtol, an all-in-one Camera-Printer-gun to easily commit suicide by cop.
