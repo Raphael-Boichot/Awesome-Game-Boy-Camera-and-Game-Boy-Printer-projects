@@ -14,9 +14,9 @@ PRs are of course welcome if I forgot one.
 
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (Mini board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot.
-- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR, the first published project (regular board). Next two projects are derived from it.
-- [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/) and the [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
+- [Flashable Game Boy Camera](https://github.com/HDR/Gameboy-Camera-Flashcart) by HDR, the first published project (regular board). Next project is derived from it.
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (Mini board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label).
+- [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) by InsideGadget (regular board).
 
 ## Custom camera roms
 - [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
