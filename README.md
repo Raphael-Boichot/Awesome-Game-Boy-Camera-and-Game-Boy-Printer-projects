@@ -31,6 +31,7 @@ PRs are of course welcome if I forgot one.
 - The [CMOS Holga](https://github.com/mupfdev/CMOS-Holga) by mupfdev. A DIY digital camera using the Mitsubishi M64282FP image sensor and a STM32.
 - The [PicNRec](https://shop.insidegadgets.com/product/gameboy-camera-picnrec/) by InsideGadget, middleman device recording images to an SD card.
 - [GBCamcorder](https://github.com/furrtek/GBCameraProjects/tree/master/GBCamcorder) and [GBLiveCam](https://github.com/furrtek/GBCameraProjects/tree/master/GBLiveCam) by Furrtek, Lo-Fi portable video recorder and USB webcam using a GameBoy Camera cartridge. More on the GBCamcorder [here](http://furrtek.free.fr/?a=gbcc).
+- The [Gameboy Camera webcam](https://github.com/pimlu/gbcam) by pimlu, USB webcam using the Gameboy Camera.
 - The [Game Boy Camera Sniffer](https://github.com/Raphael-Boichot/Game-Boy-camera-sniffer) by Raphael-Boichot, middleman analog recoder between the Game Boy Camera and its sensor. Sends real images from the sensor (before the MAC-GBD) to SD an card.
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54) by Christopher Mitchell, sends Game Boy Camera sensor images to a TI-84 Plus Calculator.
 - [A project from 2001](https://archive.seattlerobotics.org/encoder/200205/gbcam.html) by Dafydd Walters, implementing Vision Using a Game Boy Camera on the MRM.
