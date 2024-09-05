@@ -4,7 +4,7 @@
 ## A curated list of projects about Game Boy Camera and Game Boy Printer
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant). Commercial devices are part of the game.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Unfinished / undocumented / unintelligible / unworking projects are also dismissed.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Undocumented / unintelligible projects are also dismissed.
 
 Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very specialized topic here.
 
