@@ -42,6 +42,7 @@ PRs are welcome if I forgot an awesome thing. This list is of course meant to be
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno, by Raphael-Boichot.
 - A [custom sensor PCB](https://github.com/HerrZatacke/M64283FP-Camera-PCB) by HerrZatacke to decrease light leaks and adapt the M642882FP/M64283FP sensors.
 - A [custom sensor PCB](https://facelesstech.wordpress.com/2023/07/03/gameboy-camera-led-flash/) by Facelesstech to add a flash to the Camera, reverse-engineered from this [another one](https://github.com/HDR/Game-Boy-Camera-Flash-Sensor-Module).
+- [Game Boy Camera light blocker](https://www.printables.com/model/723614-game-boy-camera-light-blocker) by gameboycamera, a light blocker designed to prevent light leaks in your Game Boy Camera.
 - [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz in order to integrate functions into emulators.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) by shimniok, to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [probable source](https://github.com/BackupGGCode/avr-gameboy-cam).
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained, by HerrZatacke !
