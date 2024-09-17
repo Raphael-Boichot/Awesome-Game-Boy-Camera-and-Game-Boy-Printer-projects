@@ -6,9 +6,9 @@
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant). Commercial devices are part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Undocumented / unintelligible projects are also dismissed.
 
-Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very specialized topic here.
+Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very niche topic here.
 
-PRs are welcome if I forgot an awesome thing. This list is of course meant to be completed with time.
+PRs are welcome if I've forgotten your awesome project. This list is of course meant to be completed with time.
 
 # Game Boy Camera
 
