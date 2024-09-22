@@ -8,7 +8,7 @@
 
 Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very niche topic here.
 
-PRs are welcome if I've forgotten your awesome project. This list is of course meant to be completed with time.
+PRs are welcome if I've forgotten your awesome (and documented) project. This list is of course meant to be completed with time.
 
 # Game Boy Camera
 
