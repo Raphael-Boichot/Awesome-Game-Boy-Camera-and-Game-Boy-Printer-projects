@@ -129,7 +129,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 
 # Social media
 
-**Gentle reminder:** disappearing from Discord platform is a [real pain in the arse](https://github.com/victornpb/undiscord) and mods themselves have by default a disproportionate control over your data (like: locking your own discussion in read only). **To play it safe, consider that you do not have any ownership (including right to erase) on anything you wrote on this platform.**
+**Gentle reminder:** disappearing from Discord platform is a [real pain in the arse](https://github.com/victornpb/undiscord) and mods themselves have by default a disproportionate control over your data (like: locking your own posts in read only). **To play it safe, consider that you do not have any ownership (including right to erase) on anything you wrote on this platform.**
 
  ## Dedicated servers
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
