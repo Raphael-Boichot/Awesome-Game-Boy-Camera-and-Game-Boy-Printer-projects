@@ -129,10 +129,11 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 
 # Social media
 
-**Warning: Discord is a privacy nightmare.** Mods have disproportionate control over your data, like locking your own posts in read-only. To play it safe, consider that you loose any right (including the right to be forgotten) with anything you publish on this platform.
-
  ## Dedicated servers
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
+
+**Warning: Discord is a privacy nightmare.** Mods have disproportionate control over your data, like locking your own posts in read-only. To play it safe, consider that you loose any right (including the right to be forgotten) with anything you publish on this platform.
+
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts.
 
  ## Interesting articles/sites
