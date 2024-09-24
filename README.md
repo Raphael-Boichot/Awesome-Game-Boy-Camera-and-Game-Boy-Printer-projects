@@ -145,6 +145,5 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
 - The mandatory [Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
 
-# All your data are belong to us
-
+## All your data are belong to us
 **Warning: Discord is a privacy nightmare.** Moderators have by default disproportionate control over your data, like locking your own threads in read-only mode. There's no easy way, if any, for a user to mass delete own messages (or worse, after a ban, you loose any access to them). Consider that you loose any right (including the [right to be forgotten](https://www.lemonde.fr/pixels/article/2022/11/17/la-cnil-inflige-a-discord-une-amende-de-800-000-euros_6150300_4408996.html)) with anything you publish there. The platform is also notorious for being full of deviants, including among the moderators.
