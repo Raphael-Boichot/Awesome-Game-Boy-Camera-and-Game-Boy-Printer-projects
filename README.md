@@ -132,7 +132,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
  ## Dedicated servers
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
 
-**Warning: Discord is a privacy nightmare.** There's no easy way, if any, for users to mass delete their own messages (moderators can lock them in read only). Consider that you loose any right (including the [right to be forgotten](https://www.lemonde.fr/pixels/article/2022/11/17/la-cnil-inflige-a-discord-une-amende-de-800-000-euros_6150300_4408996.html)) with anything you publish there.
+**Warning: the Discord platform in general is not only famous for being packed with deviant people, it's also a privacy nightmare.** There's no easy way, if any, for users to mass delete their own messages (moderators can lock them read-only or ban you and cut off all access). Consider that **you loose any right with anything you publish there** to smooth your experience with the platform.
 
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts.
 
