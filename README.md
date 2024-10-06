@@ -4,7 +4,7 @@
 ## A curated list of projects about Game Boy Camera and Game Boy Printer
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant). Commercial devices are part of the game.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Undocumented / unintelligible projects are also dismissed.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Any article like "This Guy did something with its camera/printer" is discarded. Undocumented enough / unintelligible projects are also dismissed.
 
 Some projets are yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very niche topic here.
 
@@ -14,7 +14,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (mini size board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot.
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label). This project is a miniaturization of this [one](https://github.com/HDR/Gameboy-Camera-Flashcart). As it is derived from a project with a non-commercial licence, it is not supposed to be sold.
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label). This project is a miniaturization of this [one](https://github.com/HDR/Gameboy-Camera-Flashcart). As it is derived from a project with a non-commercial licence, it is not supposed to be [sold](https://gameboycamera.super.site/projects/game-boy-mini-camera).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
