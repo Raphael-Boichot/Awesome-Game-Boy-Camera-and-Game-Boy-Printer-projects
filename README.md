@@ -14,7 +14,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (mini size board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot.
-- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label). This project is a miniaturization of this [one](https://github.com/HDR/Gameboy-Camera-Flashcart). As it is derived from a project with a non-commercial licence, it is not supposed to be [sold](https://gameboycamera.super.site/projects/game-boy-mini-camera).
+- [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label). This is a miniaturization of this early [project](https://github.com/HDR/Gameboy-Camera-Flashcart).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
@@ -41,7 +41,6 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno, by Raphael-Boichot.
 - A [custom sensor PCB](https://github.com/HerrZatacke/M64283FP-Camera-PCB) by HerrZatacke to decrease light leaks and adapt the M642882FP/M64283FP sensors.
 - A [custom sensor PCB](https://facelesstech.wordpress.com/2023/07/03/gameboy-camera-led-flash/) by Facelesstech to add a flash to the Camera, reverse-engineered from this [another one](https://github.com/HDR/Game-Boy-Camera-Flash-Sensor-Module).
-- [Game Boy Camera light blocker](https://www.printables.com/model/723614-game-boy-camera-light-blocker) by gameboycamera, a light blocker designed to prevent light leaks in your Game Boy Camera.
 - [Reverse ingineering](https://github.com/AntonioND/gbcam-rev-engineer) of the Game Boy Camera sensor by Antonio Niño Díaz in order to integrate functions into emulators.
 - [Code for an AVR microcontroller](https://github.com/shimniok/avr-gameboy-cam) by shimniok, to interface with a Game Boy Camera, pull images and send over serial to a Java applet, as well as its [probable source](https://github.com/BackupGGCode/avr-gameboy-cam).
 - The [Game Boy Camera dithering patterns](https://github.com/HerrZatacke/dither-pattern-gen) explained, by HerrZatacke !
@@ -74,6 +73,13 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - [Original Gameboy Camera shell 1:1](https://github.com/hatchman/Game-Boy-Camera-Shell) remodeling from scratch by hatchman.
 - [Game Boy Macro Camera](https://github.com/gameboycamera/game-boy-macro-camera) by gameboycamera, make your own Game Boy Camera cart resized to a typical cart.
 - The [Gopro mount mod](https://sebastientourneux.fr/gameboy-camera-gopro-mount/) by Sébastien Tourneux.
+- [Game Boy Camera light blocker](https://www.printables.com/model/723614-game-boy-camera-light-blocker) by gameboycamera, a light blocker designed to prevent light leaks in your Game Boy Camera.
+- [Game Boy Camera Focus Eye](https://www.printables.com/model/876735-game-boy-camera-focus-eye) by gameboycamera. The Focus Eye is a completely internal focus adjustment for the Game Boy Camera.
+- [Game Boy Camera lens focus wrench](https://www.printables.com/model/487988-game-boy-camera-lens-focus-wrench) by gameboycamera. Simply insert the lens with sensor into the lens grip and use the focus wrench to adjust the focus.
+- [iPhone XR lens to Game Boy Camera adapter](https://www.printables.com/model/574385-iphone-xr-lens-to-game-boy-camera-adapter) by gameboycamera. An adapter to convert an iPhone XR lens to the Game Boy Camera lens holder.
+- [Game Boy Mini Camera](https://www.printables.com/model/488126-game-boy-mini-camera) by gameboycamera, model for the Game Boy Mini Camera shell.
+- [Game Boy Camera Telescope Eyepiece Mount](https://www.printables.com/model/393325-game-boy-camera-telescope-eyepiece-mount) by Silver Sasquatch. A 1.25" eyepiece that you can use to connect a CS modded Game Boy Camera.
+
 
 # Game Boy Printer
 
@@ -135,9 +141,6 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 
  ## Dedicated servers
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
-
-**Warning: public Discord servers are out of control, this one makes no exception. I recommend contributing only if you know the moderators in person. Leaving the platform cleanly is also barely impossible.**
-
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts.
 
  ## Interesting articles/sites
