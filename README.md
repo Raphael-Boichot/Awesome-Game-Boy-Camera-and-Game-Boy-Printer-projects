@@ -125,7 +125,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - [Game Boy Printer reverse ingineering](http://furrtek.free.fr/?a=gbprinter) by Furrtek.
 - [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
 - The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer by Furrtek, made with a washing machine full bridge rectifier.
-- [Installing a 9 Volts bettery into the Game Boy Printer](https://imgur.com/a/installing-nine-volt-mod-on-game-boy-printer-QOxq2EG) by unknown Reddit user.
+- [Installing a 9 Volts battery into the Game Boy Printer](https://imgur.com/a/installing-nine-volt-mod-on-game-boy-printer-QOxq2EG) by unknown Reddit user. Lasts for about 100 prints.
 - The [full schematic and gerbers](https://github.com/RWeick/IF-GBP-02-Gameboy-Printer) for the Nintendo Gameboy Printer PCB revision 02, RWeick.
 - The [Laser Range Finder + Game Boy Printer hack](https://www.flickr.com/photos/joesmooth/albums/72157628221975565/) by Joe Grand, prints images taken with a [laser range finder](https://grandideastudio.com/portfolio/do-it-yourself/laser-range-finder/) invented by the same author.
 
