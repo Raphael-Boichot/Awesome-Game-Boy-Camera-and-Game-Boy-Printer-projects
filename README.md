@@ -67,6 +67,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - [Game Boy Camera to Canon](https://www.thingiverse.com/thing:4337362) lens mount by HerrZatacke (requires shell).
 - [Game Boy Camera to M42](https://www.thingiverse.com/thing:6077684) lens mount by drago (requires shell).
 - [Gameboy Camera D mount](https://www.thingiverse.com/thing:4933017) adapter by W33dWiz420 (requires shell).
+- [Game Boy Camera M12 lens mount](https://www.printables.com/model/488140-game-boy-camera-m12-lens-mount) by gameboycamera (requires shell). A halfball Game Boy Camera replacement for M12 lenses.
 - [Gameboy Camera to Pentax-K / Canon EF](https://www.thingiverse.com/thing:3256746) adapter with shell, by lennididathing.
 - [Gameboy Camera CS mount to Pentax 110](https://www.thingiverse.com/thing:5270889) lens adapter (requires shell), by gameboycamera.
 - [Game Boy Camera+](https://ko-fi.com/s/9457d1cc6e) shell mod with CS mount adapter and the same in short, the [Game Boy Camera+ mini](https://ko-fi.com/s/a4d7bd649a), by 2BitToy.
@@ -125,6 +126,10 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - [Blarble 1290](https://8bittygames.com/blarble1290/) by Patrick Rodriguez, make your printer alive ! (compatible with Seiko printer only).
 - A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) by mmuszkow, without much information, just try it.
 - [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0), a rom by Jeff Frohwein.
+
+## Shell mods
+- [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
+- [Game Boy Pocket Printer paper cover](https://www.printables.com/model/560940-game-boy-pocket-printer-paper-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer paper cover which is frequently lost or broken.
 
 # Social media
 
