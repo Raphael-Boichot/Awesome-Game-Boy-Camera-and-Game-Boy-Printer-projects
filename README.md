@@ -79,6 +79,7 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 - [iPhone XR lens to Game Boy Camera adapter](https://www.printables.com/model/574385-iphone-xr-lens-to-game-boy-camera-adapter) by gameboycamera. An adapter to convert an iPhone XR lens to the Game Boy Camera lens holder.
 - [Game Boy Mini Camera](https://www.printables.com/model/488126-game-boy-mini-camera) by gameboycamera, model for the Game Boy Mini Camera shell.
 - [Game Boy Camera Telescope Eyepiece Mount](https://www.printables.com/model/393325-game-boy-camera-telescope-eyepiece-mount) by Silver Sasquatch. A 1.25" eyepiece that you can use to connect a CS modded Game Boy Camera.
+- [Game Boy Camera Magnetic Color and IR-Cut Filter Holder](https://www.printables.com/model/325268-game-boy-camera-magnetic-color-and-ir-cut-filter-h) by NeoRame.
 
 
 # Game Boy Printer
