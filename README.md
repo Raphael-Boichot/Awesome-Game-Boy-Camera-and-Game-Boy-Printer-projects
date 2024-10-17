@@ -13,9 +13,9 @@ PRs are welcome if I've forgotten your awesome (and documented) project. This li
 # Game Boy Camera
 
 ## Flashable Cameras
-- [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (mini size board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot. This project is license free and by far the most versatile. I recommend not wasting your money with the next two projects due to probable license violation.
+- [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (mini size board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot. This project is license free and by far the most versatile.
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label). This is an adaptation of this early [project](https://github.com/HDR/Gameboy-Camera-Flashcart), so it inheritates from its license: [selling it](https://ko-fi.com/s/5a678033de) is just illegal.
-- [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board), also adapted from this [project](https://github.com/HDR/Gameboy-Camera-Flashcart), and probably also sold illegaly.
+- [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
 - [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
