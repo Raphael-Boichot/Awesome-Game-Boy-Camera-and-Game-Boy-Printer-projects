@@ -100,6 +100,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) by Martin Eyre, dating from 1998 and using a parallel port and DOS.
 - An [ESP32 Game Boy Printer emulator](https://github.com/tidklaas/esp32-gameboy-printer) by tidklaas based on an [ESP8266 version](https://github.com/applefreak/esp8266-gameboy-printer) by applefreak. Also a branch based on this emulator compatible with the [Phomemo T02 printer](https://github.com/iamjackg/esp32-phomemo-gameboy-printer) by iamjackg.
 - An [ESC/POS compatible](https://github.com/xx0x/gbpxl) by xx0x, Game Boy Printer emulator and a version allowing [Bluetooth compatibility](https://github.com/CustardFlan/gbpxl-BT), by CustardFlan.
+- The [super-gb-printer](https://github.com/CelestialQwert/super-gb-printer) by CelestialQwert, A Game Boy to Epson POS printer interface using a Raspberry Pi Pico and written in MicroPython.
 - A [flipper Zero compatible](https://github.com/kbembedded/flipper-gb-printer) Game Boy Printer emulator by kbembedded.
 - A [PIC16F18857 compatible](https://github.com/bereczistvan/pic-gb-printer) Game Boy Printer emulator by bereczistvan.
 - An [M5Atom Game Boy Printer emulator](https://github.com/niccolli/m5atom_gbprinter) sending data over Wifi, by niccolli.
