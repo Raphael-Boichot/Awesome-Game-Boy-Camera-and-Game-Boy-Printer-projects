@@ -60,6 +60,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [gbcamtool](https://github.com/Lana-chan/gbcamtool), online tool by Lana-chan, requires a flasher.
 - [Gameboy.photography](https://github.com/edd/gameboy.photography), online tool by edd, requires a flasher.
 - [gbcamconv](https://github.com/grosshei/gbcamconv) by grosshei, requires a flasher.
+- [gameboy-camera-image-extractor](https://github.com/thies4321/gameboy-camera-image-extractor) by thies4321, requires a flasher.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
