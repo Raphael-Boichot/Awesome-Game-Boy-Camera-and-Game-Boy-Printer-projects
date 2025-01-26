@@ -18,7 +18,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
-- [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators.
+- [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators. Also compatible with the [Megaduck](https://fr.wikipedia.org/wiki/Mega_Duck) (also known as Cougar Boy) via a [Game Boy Camera / Megaduck adapter](https://github.com/bbbbbr/gb_to_megaduck_cart_adapter).
 - [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio) by HerrZatacke, prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
 
 ## Rom/save hacks
