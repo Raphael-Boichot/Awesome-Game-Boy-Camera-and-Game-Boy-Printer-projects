@@ -136,8 +136,9 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 
 ## Printer custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter) by reini1305, well, to print banners with the Game Boy Printer.
+ - [Snake]() by reini1305, you can print the highscore from the main screen.
 - [Blarble 1290](https://8bittygames.com/blarble1290/) by Patrick Rodriguez, make your printer alive ! (compatible with Seiko printer only).
-- A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) by mmuszkow, without much information, just try it.
+- A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) by mmuszkow, without much information, but which does not work on a real printer due to lacking print command.
 - [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0), a rom replacing the Game Boy Printer by a Game Boy display, by Jeff Frohwein.
 
 ## Shell mods
