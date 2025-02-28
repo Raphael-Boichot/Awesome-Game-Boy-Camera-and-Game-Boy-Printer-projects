@@ -98,7 +98,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [The Pico GameBoy printer](https://github.com/untoxa/pico-gb-printer) by untoxa, originating from the [pico-webserver](https://github.com/maxnet/pico-webserver) by maxnet, supports the ultra-fast printing mode of Photo! Based on a Raspberry Pi Pico.
 - The [gb-link-printer](https://github.com/stacksmashing/gb-link-printer) by stacksmashing and a [dedicated PCB](https://github.com/agtbaskara/game-boy-pico-link-board).
 - Another [GBPrinterEmu](https://github.com/dj505/GBPrinterEmu) compatible with the stacksmashing board.
-- The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a PIC24FJ128.
+- The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a [PIC24FJ128](https://github.com/Raphael-Boichot/Teardown-of-the-BitBoy-printer-emulator).
 - The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie, based on ESP8266.
 - The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by Benn Venn, based on STM32.
 - The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) by Martin Eyre, dating from 1998 and using a parallel port and DOS.
