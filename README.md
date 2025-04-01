@@ -39,7 +39,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [GameBoyGuider](https://www.deep-sky-lab.com/GameBoyGuider/gbgd.htm#Downloads) by Daniel Weitendorf, a simple and inexpensive standalone autoguider based on the M64282FP sensor.
 - [A project from 2001](https://archive.seattlerobotics.org/encoder/200205/gbcam.html) by Dafydd Walters, implementing Vision Using a Game Boy Camera on the MRM.
 - [A project from 2005](http://sophiateam.undrgnd.free.fr/microcontroller/camera/) by lstmarcel, Game Boy camera / PC - Serial interface.
-- [A project from 2012](http://www.pidream.net/2012/08/120805.html), interfacing a M64282FP with an Arduino. An updated version od the code is proposed [here](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor/tree/main/Arduino_Japanese_code_2012).
+- [A project from 2012](http://www.pidream.net/2012/08/120805.html), interfacing a M64282FP with an Arduino. An updated version of the code is proposed [here](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor/tree/main/Arduino_Japanese_code_2012).
 - [Another project from 2012](https://blog.kemushicomputer.com/2012/12/lsi.html) by 毛虫計算機, astrophotography with a M64282FP sensor by downclocking it.
 - Hacking the [M64282FP](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor) and [M64283FP](https://github.com/Raphael-Boichot/Play-with-the-Mitsubishi-M64283FP-sensor) sensors with an Arduino Uno, by Raphael-Boichot.
 - A [custom sensor PCB](https://github.com/HerrZatacke/M64283FP-Camera-PCB) by HerrZatacke to decrease light leaks and adapt the M642882FP/M64283FP sensors.
