@@ -27,7 +27,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained, by Raphael-Boichot. Cheat at minigames, unlock hidden features, calibrate your camera, and more !
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames) by cristofercruz, Python script to replace the built-in frames in the Game Boy Camera rom with your own.
 
-## Camera hacks
+## Camera/sensor hacks
 - The [DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam) by Raphael-Boichot, a DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico. An ESP32 prototype is proposed [here](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor/tree/main/ESP32_version_beta).
 - The [CMOS Holga](https://github.com/mupfdev/CMOS-Holga) by mupfdev. A DIY digital camera using the Mitsubishi M64282FP image sensor and a STM32.
 - The [PicNRec](https://shop.insidegadgets.com/product/gameboy-camera-picnrec/) by InsideGadget, middleman device recording images to an SD card.
@@ -36,6 +36,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [Gameboy Camera webcam](https://github.com/pimlu/gbcam) by pimlu, USB webcam using the Gameboy Camera.
 - The [Game Boy Camera Sniffer](https://github.com/Raphael-Boichot/Game-Boy-camera-sniffer) by Raphael-Boichot, middleman analog recoder between the Game Boy Camera and its sensor. Sends real images from the sensor (before the MAC-GBD) to SD an card.
 - [ArTICam](https://www.cemetech.net/projects/item.php?id=54) by Christopher Mitchell, sends Game Boy Camera sensor images to a TI-84 Plus Calculator.
+- The [GameBoyGuider](https://www.deep-sky-lab.com/GameBoyGuider/gbgd.htm#Downloads) by Daniel Weitendorf, a simple and inexpensive standalone autoguider based on the M64282FP sensor.
 - [A project from 2001](https://archive.seattlerobotics.org/encoder/200205/gbcam.html) by Dafydd Walters, implementing Vision Using a Game Boy Camera on the MRM.
 - [A project from 2005](http://sophiateam.undrgnd.free.fr/microcontroller/camera/) by lstmarcel, Game Boy camera / PC - Serial interface.
 - [A project from 2012](http://www.pidream.net/2012/08/120805.html), interfacing a M64282FP with an Arduino. An updated version od the code is proposed [here](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor/tree/main/Arduino_Japanese_code_2012).
