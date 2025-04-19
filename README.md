@@ -55,7 +55,6 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [GBxCart](https://www.gbxcart.com/) with [FlashGBX](https://github.com/lesserkuma/FlashGBX) by lesserkuma, with direct conversion of save to images.
 - [Game Boy Camera Fast Wifi Adapter](https://github.com/MattGrayYes/Game-Boy-Camera-Fast-Wifi-Adapter) by MattGrayYes, based on the GBxCart.
 - [HDR image processing](https://github.com/seb-tourneux/gbcam-hdr-utils) by Sébastien Tourneux, take a save made in AEB mode (Auto Exposure Bracketing) with Photo! and turn it into an High Definition Range 8-bits image ! Requires a flasher.
-- [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, requires a flasher.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) by jkbenaim, requires a flasher.
 - [gbcamera](https://github.com/mrdanielps/gbcamera) by mrdanielps, requires a flasher.
 - [Rombus Game Boy camera dumper](https://github.com/Rombusevil/rgbcdumper) by Rombusevil, requires a flasher.
@@ -65,6 +64,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [gbcamconv](https://github.com/grosshei/gbcamconv) by grosshei, requires a flasher.
 - [gameboy-camera-image-extractor](https://github.com/thies4321/gameboy-camera-image-extractor) by thies4321, requires a flasher.
 - [GB Cam Lab](https://github.com/RomanObaraz/gb-cam-lab) by RomanObaraz, a simple tool for exporting and editing photos from Gameboy Camera save files. Just drop your saves and enjoy your pictures !
+- [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, a command-line tool for extracting Game Boy Camera photos from a save ram (.sav) file and writing them in the PNG format.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
@@ -96,6 +96,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [NeoGB Printer](https://github.com/zenaro147/NeoGB-Printer) by Rafael Zenaro, autonomous printer emulator originating from the previous project and printing directly to an SD card, powered by an ESP32.
 - The [TinyGB Printer](https://github.com/Raphael-Boichot/The-TinyGB-Printer) by Raphael-Boichot, a demake of the NeoGB Printer on Raspberry Pi Pico. Stores images on SD card. Requires zero configuration.
 - The [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator) by HerrZatacke, based on the Arduino Game Boy Printer emulator and using an ESP8266 board/Wifi, with its [dedicated PCB](https://github.com/cristofercruz/gbp-esp-shield-pcb).
+- [The GBPrinter WiFi](https://github.com/N3rd1n5id3/GBPrinter-WiFi) by N3rd1n5id3, a GameBoy printer emulator which provides the received data over a wifi-connection derived from the preceding project.
 - [The Pico GameBoy printer](https://github.com/untoxa/pico-gb-printer) by untoxa, originating from the [pico-webserver](https://github.com/maxnet/pico-webserver) by maxnet, supports the ultra-fast printing mode of Photo! Based on a Raspberry Pi Pico.
 - The [gb-link-printer](https://github.com/stacksmashing/gb-link-printer) by stacksmashing and a [dedicated PCB](https://github.com/agtbaskara/game-boy-pico-link-board).
 - Another [GBPrinterEmu](https://github.com/dj505/GBPrinterEmu) compatible with the stacksmashing board.
