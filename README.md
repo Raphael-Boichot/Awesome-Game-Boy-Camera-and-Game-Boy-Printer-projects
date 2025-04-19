@@ -103,6 +103,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - Another [GBPrinterEmu](https://github.com/dj505/GBPrinterEmu) compatible with the stacksmashing board.
 - The [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy), a neat Game Boy Printer emulator, printing directly to an SD card, powered by a [PIC24FJ128](https://github.com/Raphael-Boichot/Teardown-of-the-BitBoy-printer-emulator).
 - The [Wifi Printer](https://www.tindie.com/products/Suicidebattery/camera-wifi-printer-for-gameboy/) on Tindie, based on ESP8266.
+- The [espgbprint], an ESP8266 Gameboy Printer Emulator by Gaunsessa.
 - The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by Benn Venn, based on STM32.
 - The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) by Martin Eyre, dating from 1998 and using a parallel port and DOS.
 - An [ESP32 Game Boy Printer emulator](https://github.com/tidklaas/esp32-gameboy-printer) by tidklaas based on an [ESP8266 version](https://github.com/applefreak/esp8266-gameboy-printer) by applefreak. Also a branch based on this emulator compatible with the [Phomemo T02 printer](https://github.com/iamjackg/esp32-phomemo-gameboy-printer) by iamjackg.
@@ -114,6 +115,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - An [M5Atom Game Boy Printer emulator](https://github.com/niccolli/m5atom_gbprinter) sending data over Wifi, by niccolli.
 - A repo with [PCBs for open source printer emulators](https://github.com/Raphael-Boichot/Collection-of-PCB-for-Game-Boy-Printer-Emulators) by Raphael-Boichot.
 - The [Serial Boy](https://github.com/francoiswnel/Serial-Boy) by francoiswnel, a breakout PCB to connect the serial cable to the Arduino Game Boy Printer emulator.
+- A [repository](https://github.com/breadbored/Gameboy-Reverse-Engineering) containing many stuff about Game Boy reverse engineering, including a functional Pi Pico printer emulator, by breadbored.
   
 ## Emulator overlays
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home) by herrzatacke, website to decode, arrange and store images from the Arduino Game Boy Printer emulator and saves. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
