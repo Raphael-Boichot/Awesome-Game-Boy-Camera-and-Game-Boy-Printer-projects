@@ -106,6 +106,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - The [Game Boy Printer emulator](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) by Benn Venn, based on STM32.
 - The [first ever Game Boy printer emulator](https://github.com/Raphael-Boichot/A-Game-Boy-Printer-emulator-in-1998) by Martin Eyre, dating from 1998 and using a parallel port and DOS.
 - An [ESP32 Game Boy Printer emulator](https://github.com/tidklaas/esp32-gameboy-printer) by tidklaas based on an [ESP8266 version](https://github.com/applefreak/esp8266-gameboy-printer) by applefreak. Also a branch based on this emulator compatible with the [Phomemo T02 printer](https://github.com/iamjackg/esp32-phomemo-gameboy-printer) by iamjackg.
+- Another [ESP32 based Game Boy Printer emulator](https://github.com/arkjedrz/gb-printer), by arkjedrz. Instructions: you're on your own, good luck.
 - An [ESC/POS compatible](https://github.com/xx0x/gbpxl) by xx0x, Game Boy Printer emulator and a version allowing [Bluetooth compatibility](https://github.com/CustardFlan/gbpxl-BT), by CustardFlan.
 - The [super-gb-printer](https://github.com/CelestialQwert/super-gb-printer) by CelestialQwert, A Game Boy to Epson POS printer interface using a Raspberry Pi Pico and written in MicroPython.
 - A [flipper Zero compatible](https://github.com/kbembedded/flipper-gb-printer) Game Boy Printer emulator by kbembedded.
@@ -120,6 +121,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
  - Python decoders for the Arduino Game Boy Printer emulator: [CLI version](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/GameboyPrinterDecoderPython), [another CLI version](https://github.com/raster/Game-Boy-Camera-Dumper) by raster, [yet another CLI version](https://github.com/lennartba/gbpinter_dump2image_py) by lennartba and a [GUI version](https://github.com/CelestialQwert/game-boy-printer-gui) by CelestialQwert. This other [Python/Cython code](https://github.com/sudo-Eric/gameboy-thermal-receipt-printer) by sudo-Eric looks like another emulator overlay but description is not provided.
 - A [Java application](https://github.com/lukasklinger/GameBoyPrinterReceiver) by lukasklinger for the Arduino Game Boy Printer emulator.
 - A [Matlab/GNU Octave code](https://github.com/Raphael-Boichot/GameboyPrinterPaperSimulation) by Raphael-Boichot to decode images from the Arduino Game Boy Printer emulator with e-paper feature and the curated list of compatible games. e-paper feature also implemented in [this project](https://github.com/mtouzot/GameBEye) by mtouzot.
+- The [gameboy-printer-emulator-client](https://github.com/LucaCorigliano/gameboy-printer-emulator-client), a client for the Game Boy Printer emulator written in C#, decoding images in real time, by LucaCorigliano.
 
 ## PC to printer interfaces
 - The [PC to Game Boy Printer interface](http://furrtek.free.fr/?a=gbpcable) by Furrtek, based on a PL2303.
@@ -137,7 +139,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [Game Boy Printer reverse ingineering](https://github.com/thebenheckshow/263-tbhs-Reverse-Engineered-Game-Boy-Printer) by Ben Heckendorn.
 - The [Game Boy Printer AC adapter](http://furrtek.free.fr/?a=gbppower) for the Game Boy Printer by Furrtek, made with a washing machine full bridge rectifier.
 - [Installing a 9 Volts battery into the Game Boy Printer](https://imgur.com/a/installing-nine-volt-mod-on-game-boy-printer-QOxq2EG) by unknown Reddit user. Lasts for about 100 prints.
-- The [full schematic and gerbers](https://github.com/RWeick/IF-GBP-02-Gameboy-Printer) for the Nintendo Gameboy Printer PCB revision 02, RWeick.
+- The [full schematic and gerbers](https://github.com/RWeick/IF-GBP-02-Gameboy-Printer) for the Nintendo Gameboy Printer PCB revision 02, by RWeick.
 - The [Laser Range Finder + Game Boy Printer hack](https://www.flickr.com/photos/joesmooth/albums/72157628221975565/) by Joe Grand, prints images taken with a [laser range finder](https://grandideastudio.com/portfolio/do-it-yourself/laser-range-finder/) invented by the same author.
 
 ## Printer custom roms
