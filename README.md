@@ -134,6 +134,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - Printing on the Game Boy Printer [using an STM32F4](https://github.com/Dhole/gb-link-host) by Dhole.
 - Printing on the Game Boy Printer [using an Arduino and SD shield](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer) by Raphael-Boichot.
 - [Discord printer bot](https://github.com/Squaresweets/GBPrinter-discord-bot) by Squaresweets and the same [without the Discord code](https://github.com/KuestenKeks/pc-to-gb-printer) by KuestenKeks.
+- An [Arduino interface](https://github.com/jonnop123/Gameboy_Printer_Arduino/tree/master) by jonnop123, can send images and text to the printer.
 
 ## Printer hacks
 - The [Game Boy Printer sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) by mofosyne, a middleman to record actual communication between a Game Boy and a printer.
