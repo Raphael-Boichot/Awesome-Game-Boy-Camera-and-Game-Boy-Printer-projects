@@ -11,6 +11,7 @@ Some projets are yet listed in the [awesome-gbdev project](https://github.com/gb
 PRs are welcome if I've forgotten your awesome (and documented enough) project. This list is of course meant to be completed with time.
 
 ![](/Hall_of_fame.jpg)
+(Image credit: Raphaël BOICHOT)
 
 # Game Boy Camera
 
