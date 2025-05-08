@@ -116,7 +116,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - An [M5Atom Game Boy Printer emulator](https://github.com/niccolli/m5atom_gbprinter) sending data over Wifi, by niccolli.
 - A repo with [PCBs for open source printer emulators](https://github.com/Raphael-Boichot/Collection-of-PCB-for-Game-Boy-Printer-Emulators) by Raphael-Boichot.
 - The [Serial Boy](https://github.com/francoiswnel/Serial-Boy) by francoiswnel, a breakout PCB to connect the serial cable to the Arduino Game Boy Printer emulator.
-- A [repository](https://github.com/breadbored/Gameboy-Reverse-Engineering) containing many stuff about Game Boy reverse engineering, including a functional Pi Pico printer emulator, by breadbored.
+- A [repository](https://github.com/breadbored/Gameboy-Reverse-Engineering) containing many stuff about Game Boy reverse engineering, including an alledged functional Pi Pico printer emulator, by breadbored.
   
 ## Emulator overlays
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home) by herrzatacke, website to decode, arrange and store images from the Arduino Game Boy Printer emulator and saves. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
