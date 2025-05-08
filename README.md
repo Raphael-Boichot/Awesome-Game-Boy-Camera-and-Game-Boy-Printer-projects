@@ -1,5 +1,5 @@
 
-# Awesome Game Boy Camera / Game Boy Printer projects
+# Game Boy Camera / Game Boy Printer ressources
 
 ## A curated list of projects about Game Boy Camera and Game Boy Printer
 
