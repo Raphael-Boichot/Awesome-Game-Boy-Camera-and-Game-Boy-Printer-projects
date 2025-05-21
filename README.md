@@ -165,7 +165,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts.
 
- ## Interesting articles/sites
+ ## Interesting articles/sites and miscellaneous stuff
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki) by the Game Boy Camera Club Discord, quite comprehensive wiki about the Game Boy Camera / Game Boy Printer, more or less updated.
 - [Game Boy Camera Club](https://gameboycameraclub.com/), a general hub for the online Community.
 - [Game Boy Camera µZine 2024](https://cameraclub.gbdev.io/uzine2024/), issued by the Game Boy Camera Club Telegram and [gbdev](https://cameraclub.gbdev.io/).
