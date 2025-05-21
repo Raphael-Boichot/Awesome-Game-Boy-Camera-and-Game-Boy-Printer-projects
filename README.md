@@ -178,3 +178,4 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
 - The mandatory [Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
 - [Pocket Camera Compilation](https://archive.org/details/CDK021/Paty+Kerry.mp3), a chiptune compilation made only with Trippy-H.
+- [Attack of the fluffy monster](https://www.youtube.com/watch?v=27XYg6kETho) by Twarda8, the first video game made with a Game Boy Camera !
