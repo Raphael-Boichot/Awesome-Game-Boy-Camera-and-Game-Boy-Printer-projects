@@ -70,6 +70,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
+- [Game Boy Camera CS tilt shift adapter](https://www.thingiverse.com/thing:5488773) by B23N, well, self explanatory.
 - [Game Boy Camera to Canon](https://www.thingiverse.com/thing:4337362) lens mount by HerrZatacke (requires shell).
 - [Game Boy Camera to M42](https://www.thingiverse.com/thing:6077684) lens mount by drago (requires shell).
 - [Gameboy Camera D mount](https://www.thingiverse.com/thing:4933017) adapter by W33dWiz420 (requires shell).
@@ -88,7 +89,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [Game Boy Camera Telescope Eyepiece Mount](https://www.printables.com/model/393325-game-boy-camera-telescope-eyepiece-mount) by Silver Sasquatch. A 1.25" eyepiece that you can use to connect a CS modded Game Boy Camera.
 - [Game Boy Camera Magnetic Color and IR-Cut Filter Holder](https://www.printables.com/model/325268-game-boy-camera-magnetic-color-and-ir-cut-filter-h) by NeoRame.
 - [Game Boy Camera GBA inverter](https://gameboyphoto.bigcartel.com/product/cartwheel-with-case), because taking pictures with a GBA SP sucks and money is just 0s and 1s in a bank account, this inverter is made for you, wealthy Game Boy Camera nerd !
-
+- [Game Boy Camera IR remote](https://www.thingiverse.com/thing:5756793) by partlyhuman, with this hardware, you can remotely control any of the current alternative Game Boy Camera ROMs.
 
 # Game Boy Printer
 
@@ -176,3 +177,4 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html) by Daniel S. Baxter, alias Shonumi. His [book](https://shonumi.github.io/books.html) is excellent.
 - [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
 - The mandatory [Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
+- [Pocket Camera Compilation](https://archive.org/details/CDK021/Paty+Kerry.mp3), a chiptune compilation made only with Trippy-H.
