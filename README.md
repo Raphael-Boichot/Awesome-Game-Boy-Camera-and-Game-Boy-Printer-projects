@@ -177,5 +177,5 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html) by Daniel S. Baxter, alias Shonumi. His [book](https://shonumi.github.io/books.html) is excellent.
 - [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
 - The mandatory [Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
-- [Pocket Camera Compilation](https://archive.org/details/CDK021/Paty+Kerry.mp3), a chiptune compilation made only with Trippy-H.
+- [Pocket Camera Compilation](https://archive.org/details/CDK021), a chiptune compilation made only with Trippy-H.
 - [Attack of the fluffy monster](https://odditysoft.blogspot.com/2021/12/i-made-game-on-gb-camera-and-heres-how.html) by Twarda8, the first video game made with a Game Boy Camera !
