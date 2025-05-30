@@ -28,6 +28,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 ## Rom/save hacks
 - The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained, by Raphael-Boichot. Cheat at minigames, unlock hidden features, calibrate your camera, and more !
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames) by cristofercruz, Python script to replace the built-in frames in the Game Boy Camera rom with your own.
+- [Game Boy Camera Manager](https://github.com/marcrobledo/game-boy-camera-manager) by marcrobledo, A swiss knife for Game Boy Camera data managing (both savegame SRAM and ROM).
 
 ## Camera/sensor hacks
 - The [DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam) by Raphael-Boichot, a DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico. An ESP32 prototype is proposed [here](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor/tree/main/ESP32_version_beta).
