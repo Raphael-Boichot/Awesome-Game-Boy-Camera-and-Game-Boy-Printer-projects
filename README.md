@@ -157,6 +157,12 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) by mmuszkow which prints text to the printer.
 - [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0), a rom replacing the Game Boy Printer by a Game Boy display, by Jeff Frohwein.
 
+## Printer paper supplier/references
+- [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
+- [GYS 056220](https://www.conrad.fr/fr/p/gys-rouleau-056220-largeur-38-mm-longueur-6-m-2-pc-s-2108650.html), paper for French car battery testers, ultra sharp results on my own side, rolls directly entering the printer compartment.
+- [Tillrollking](https://www.tillrollking.co.uk/thermal-rolls) sells fresh 38 mm thermal paper roll (seen on [Reddit](https://www.reddit.com/r/Gameboy/comments/d2sq77/game_boy_printer_paper_alternative/)) and seems to be the only Western company having huge stocks.
+- [Nakagawa Manufacturing](https://www.onlinecomponents.com/en/nakagawa-manufacturing/nap0038006-12002055.html) also produced the NAP-0038-006 thermal paper which is 38 mm wide (not tested on my side).
+
 ## Shell mods
 - [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
 - [Game Boy Pocket Printer paper cover](https://www.printables.com/model/560940-game-boy-pocket-printer-paper-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer paper cover which is frequently lost or broken.
@@ -177,7 +183,6 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [PetaPixel](https://petapixel.com/hack-game-boy-camera-mount-lenses/) article by David Windestal, how to Hack a Game Boy Camera to Use ‘Real’ Camera Lenses.
 - [gameboymaniac.com](https://gameboymaniac.com/) by Björn, lots of tips to enhance your Game Boy Camera.
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html) by Daniel S. Baxter, alias Shonumi. His [book](https://shonumi.github.io/books.html) is excellent.
-- [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), best known paper to use with the Game Boy Printer.
 - The mandatory [Game Boy Camera Funtography guide](https://archive.org/details/nintendofuntographyguide) on Internet Archive.
 - [Pocket Camera Compilation](https://archive.org/details/CDK021), a chiptune compilation made only with Trippy-H.
 - [Attack of the fluffy monster](https://odditysoft.blogspot.com/2021/12/i-made-game-on-gb-camera-and-heres-how.html) by Twarda8, the first video game made with a Game Boy Camera !
