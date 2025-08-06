@@ -159,10 +159,11 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0), a rom replacing the Game Boy Printer by a Game Boy display, by Jeff Frohwein.
 
 ## Printer paper supplier/references
-- [SEIKO S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), paper for Seiko Stopwatches, best known paper to use with the Game Boy Printer, difficult but not impossible to source outside of Japan (sold by packets of 3 rolls).
+- [SEIKO S-950 and S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), paper for Seiko Stopwatches, best known paper to use with the Game Boy Printer, difficult but not impossible to source outside of Japan (sold by packets of 3 rolls).
 - [GYS 056220](https://www.conrad.fr/fr/p/gys-rouleau-056220-largeur-38-mm-longueur-6-m-2-pc-s-2108650.html), a 38 mm wide paper for French car battery testers, ultra sharp results on my own side, rolls directly entering the printer compartment, can be purchased in Europe, sold by packets of 2 rolls.
 - [Tillrollking](https://www.tillrollking.co.uk/thermal-rolls) (UK) sells fresh 38 mm thermal paper roll (validated on [Reddit](https://www.reddit.com/r/Gameboy/comments/d2sq77/game_boy_printer_paper_alternative/)) by packets of 20.
-- [Nakagawa Manufacturing](https://www.onlinecomponents.com/en/nakagawa-manufacturing/nap0038006-12002055.html) also produced the NAP-0038-006 thermal paper which is 38 mm wide (not tested on my side, minimal order is 100 rolls, a bit too much for my own use).
+- [Nakagawa Manufacturing](https://www.onlinecomponents.com/en/nakagawa-manufacturing/nap0038006-12002055.html) also produced the NAP-0038-006 and NAP-0038-009 thermal papers which are 38 mm wide (not tested on my side, minimal order is 100 rolls, a bit too much for my own use).
+- Some other close enough thermal paper references, 37 mm wide: [Exacompta 40911E](https://www.amazon.fr/EXACOMPTA-40911E-Exacompta-thermor%C3%A9tractable/dp/B07GTL4PGT?th=1), [Ultrak 499 Paper](http://www.rjh.org.uk/stopwatch/documentation/499.pdf) and [TH37-30](https://www.fruugo.co.uk/th37-30-thermal-till-rolls/p-133744763-282015943).
 
 ## Shell mods
 - [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
