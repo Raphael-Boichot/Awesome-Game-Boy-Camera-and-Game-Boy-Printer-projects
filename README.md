@@ -168,6 +168,10 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
 - [Game Boy Pocket Printer paper cover](https://www.printables.com/model/560940-game-boy-pocket-printer-paper-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer paper cover which is frequently lost or broken.
 
+# unclassifiable projects
+
+- [The Pico Slide Show](https://github.com/Raphael-Boichot/Pico-slide-show) by Raphael-Boichot, a minimalistic and tiny digital frame showing Game Boy Camera images, made with a RP2040 Zero. It directly embeds as much as 540 images into the Raspberry Pi Pico flash memory.
+
 # Social media
 
  ## Dedicated servers
