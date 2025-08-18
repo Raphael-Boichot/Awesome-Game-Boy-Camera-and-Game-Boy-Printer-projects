@@ -172,7 +172,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 # Unclassifiable projects
 
 - [The Pico Slide Show](https://github.com/Raphael-Boichot/Pico-slide-show) by Raphael-Boichot, a minimalistic and tiny digital frame showing Game Boy Camera images, made with a RP2040 Zero. It directly embeds as much as 540 images into the Raspberry Pi Pico flash memory.
-- [The Game Boy Photo Booth](https://there.oughta.be/a/game-boy-photo-booth) by there oughta be, a mariage photobooth with a Game Boy Camera and a Game Boy Printer as main guests.
+- [The Game Boy Photo Booth](https://github.com/Staacks/there.oughta.be/tree/master/game-boy-photo-booth) by there oughta be, a mariage photobooth with a Game Boy Camera and a Game Boy Printer as main guests.
 
 # Social media
 
