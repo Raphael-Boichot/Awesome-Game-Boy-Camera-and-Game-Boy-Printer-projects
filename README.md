@@ -158,6 +158,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [Blarble 1290](https://8bittygames.com/blarble1290/) by Patrick Rodriguez, make your printer alive ! (works only on emulator, sadly).
 - A [Game Boy Printer test rom](https://github.com/mmuszkow/gbprinter) by mmuszkow which prints text to the printer.
 - [GB Printer Emulator v1.0](https://hh.gbdev.io/game/gb-printer-emulator-v1-0), a rom replacing the Game Boy Printer by a Game Boy display, by Jeff Frohwein.
+- [GBC Windows](https://archive.org/details/gbcwindows) by Rubenretro, developped with GB Studio - A spoof of Windows 3.1 with a printer function that works, mostly.
 
 ## Printer paper supplier/references (non sticking)
 - [SEIKO S-950 and S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), paper for Seiko Stopwatches, best known paper to use with the Game Boy Printer, difficult but not impossible to source outside of Japan (sold by packets of 3 rolls).
