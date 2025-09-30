@@ -1,6 +1,4 @@
-# Game Boy Camera / Game Boy Printer ressources
-
-## A curated list of projects about Game Boy Camera and Game Boy Printer
+# Welcome to the the rabbit hole of Game Boy Camera and Game Boy Printer hacks
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant). Commercial devices are part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Undocumented enough / unintelligible projects. Projects / items that cannot be reproduced / bought. Reddit / X posts in general as they have just zero added value.
@@ -21,7 +19,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
-- [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators. Also compatible with the [Megaduck](https://fr.wikipedia.org/wiki/Mega_Duck) (also known as Cougar Boy) via a [Game Boy Camera / Megaduck adapter](https://github.com/bbbbbr/gb_to_megaduck_cart_adapter).
+- [Photo!](https://github.com/untoxa/gb-photo) by untoxa, most curated rom project which basically allows extended use of the camera sensor and Game Boy Printer / Game Boy Printer emulators. Also compatible with the [Megaduck](https://fr.wikipedia.org/wiki/Mega_Duck) (also known as Cougar Boy) via a [Game Boy Camera / Megaduck adapter](https://github.com/bbbbbr/gb_to_megaduck_cart_adapter) and a special [extension card for Game Boy Camera](https://github.com/Raphael-Boichot/Megaduck-to-game-boy-camera-adapter). Photo! is also [Game Gear](https://fr.wikipedia.org/wiki/Game_Gear) compatible via an unreleased (at the moment) adpater board.
 - [2bit PXLR Studio](https://github.com/HerrZatacke/2bit-pxlr-studio) by HerrZatacke, prototype of Photo! which offers a smooth experience due to basic but efficient menus. It allows sending images by the [Game Boy speaker](https://github.com/Raphael-Boichot/custom-camera-rom-beep-tone-converter).
 
 ## Rom/save hacks
@@ -176,7 +174,6 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 
 - [The Pico Slide Show](https://github.com/Raphael-Boichot/Pico-slide-show) by Raphael-Boichot, a minimalistic and tiny digital frame showing Game Boy Camera images, made with a RP2040 Zero. It directly embeds as much as 540 images into the Raspberry Pi Pico flash memory.
 - [The Game Boy Photo Booth](https://github.com/Staacks/there.oughta.be/tree/master/game-boy-photo-booth) by there oughta be, a mariage photobooth with a Game Boy Camera and a Game Boy Printer as main guests.
-- [Megaduck to game boy camera adapter](https://github.com/Raphael-Boichot/Megaduck-to-game-boy-camera-adapter) by Raphael-Boichot, an adapter to flex with your Game Boy Camera and most important, your [Megaduck aka Cougar Boy](https://en.wikipedia.org/wiki/Mega_Duck). 
 
 # Social media
 
