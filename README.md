@@ -1,7 +1,7 @@
 # The unofficial rabbit hole of Game Boy Camera and Game Boy Printer hacks
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant). Commercial devices are part of the game.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Undocumented enough / unintelligible projects. Projects / items that cannot be reproduced / bought. Reddit / X posts in general as they have just zero added value.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.me is not meant to be a license wall of text which nobody cares about. Projects / items that cannot be reproduced / bought. Reddit / X posts in general as they have just zero added value.
 
 Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very niche topic here. I'm not affiliated to any "community" anyway (and won't). I'm maintaining this list updated just for my own satisfaction. Consider that I'm bored from the topic when updates cease. PRs are welcome if I've forgotten your awesome (and documented enough) project.
 
