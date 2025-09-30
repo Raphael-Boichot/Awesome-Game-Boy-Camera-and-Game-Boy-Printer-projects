@@ -1,4 +1,4 @@
-# Welcome to the the rabbit hole of Game Boy Camera and Game Boy Printer hacks
+# The unofficial rabbit hole of Game Boy Camera and Game Boy Printer hacks
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant). Commercial devices are part of the game.
 - **Are not listed:** non primary sources (citations of citations with nothing original, typically blog articles, with some exceptions). Undocumented enough / unintelligible projects. Projects / items that cannot be reproduced / bought. Reddit / X posts in general as they have just zero added value.
