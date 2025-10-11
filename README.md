@@ -1,11 +1,13 @@
 # The unofficial rabbit hole of Game Boy Camera and Game Boy Printer hacks
 
+## Offensive disclaimer
+
 Listing rules are quite simple:
 
-- **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant) and of course commercial devices.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.md is not supposed to be a license wall of text. Projects / items that cannot be reproduced / bought. Reddit / X posts as they generally have zero added value ("hey guys, look what I did" then just leave without elaborating -> not listed).
+- **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant) and of course commercial devices because they can be dismantled to look inside.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.md is not supposed to be a fucking license wall of text. Projects / items that cannot be reproduced / bought. Reddit / X posts as they generally have zero added value (like "hey guys, look what I did" then just leave without elaborating -> not listed).
 
-Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev), but most are not as this is a very niche topic here. I'm not affiliated to any "community" anyway (and won't). I'm maintaining this list updated just for my own satisfaction. Consider that I'm bored from the topic when updates cease. PRs are welcome if I've forgotten your awesome (and documented enough) project.
+Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev) or some other cryptic listing, but most are not as this is a very niche topic here. I'm not affiliated with any online "retro community" anyway (most of them just sucks). I'm maintaining this list updated for my own nerdy satisfaction only. Consider that I'm definitely bored with the topic when updates cease. PRs are welcome if I've forgotten your awesome (and documented enough) project.
 
 That said, let's dive in !
 
@@ -17,7 +19,7 @@ That said, let's dive in !
 ## Flashable Cameras
 - [Flashable Game Boy Camera](https://github.com/2BitWizard/GB_Mini_Camera) by 2BitWizard (mini size board) and a [comprehensive fork](https://github.com/Raphael-Boichot/GB_Mini_Camera) by Raphael-Boichot. This project is license free and by far the most versatile.
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label).
-- The [first project of flashable camera](https://github.com/HDR/Gameboy-Camera-Flashcart) (regular size board) that I do not recommend crafting because the author is a [scumbag](https://github.com/HDR/Licence-Violation-Hall-Of-Shame).
+- The [first project of flashable camera](https://github.com/HDR/Gameboy-Camera-Flashcart) (regular size board) that I do not recommend crafting because the author is a [notorious scumbag](https://github.com/HDR/Licence-Violation-Hall-Of-Shame).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the PicNRec), by InsideGadget (regular size board).
 
 ## Custom camera roms
