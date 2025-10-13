@@ -5,11 +5,11 @@
 Listing rules are quite simple:
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant) and of course commercial devices because they can be dismantled to look inside.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.md is not supposed to be a fucking license wall of text. Projects / items that cannot be reproduced / bought. Reddit / X posts as they generally have zero added value (like "hey guys, look what I did" then just leave without elaborating -> not listed). Reddit is typically just an humoungous public database of discussions between people knowing nothing on any subject.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.md is not supposed to be a fucking license wall of text. Projects / items that cannot be reproduced / bought. Reddit / X posts as they generally have zero added value (like "hey guys, look what I did" then just leave without elaborating -> not listed). Reddit by itself is just an humoungous database of discussions between people knowing nothing.
 
-Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev) or some other cryptic listing, but most are not as this is a very niche topic here. I'm not affiliated with any online "retro community" anyway (most of them just sucks due to a handful of weirdos). I'm maintaining this list updated for my own nerdy satisfaction only. Consider that I'm definitely bored with the topic when updates cease. PRs are welcome if I've forgotten your awesome (and documented enough) project.
+Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev) or some other cryptic listing, but most are not as this is a very niche topic here. I'm not affiliated with any online "retro community" anyway. Most of them just sucks due to a handful of weirdos. I'm maintaining this list updated for my own nerdy satisfaction only. Consider that I'm definitely bored with the topic when updates cease.
 
-That said, let's dive in !
+PRs are welcome if I've forgotten your awesome (and documented enough) project. That said, let's dive in !
 
 ![](/Hall_of_fame.jpg)
 (Image credit: Raphaël BOICHOT)
@@ -183,7 +183,7 @@ That said, let's dive in !
 
  ## Dedicated servers
 - [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
-- [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts.
+- [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts. Most big guns in the topic are yet members.
 
  ## Interesting articles/sites and miscellaneous stuff
 - [Game Boy Camera Wiki](https://funtography.online/wiki/Game_Boy_Camera_Wiki) by the Game Boy Camera Club Discord, quite comprehensive wiki about the Game Boy Camera / Game Boy Printer, more or less updated.
