@@ -5,9 +5,9 @@
 Listing rules are quite simple:
 
 - **Are listed:** projects with a proof that they did something and/or with a very minimal level of explanation (and I'm very tolerant) and of course commercial devices because they can be dismantled to look inside.
-- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.md is not supposed to be a fucking license wall of text. Projects / items that cannot be reproduced / bought. Reddit / X posts as they generally have zero added value (like "hey guys, look what I did" then just leave without elaborating -> not listed). Reddit by itself is just an humoungous database of discussions between people knowing nothing.
+- **Are not listed:** non primary sources (citations of citations with nothing original, typically A.I. generated garbage). Undocumented enough / unintelligible projects because README.md is not supposed to be a fucking license wall of text. Projects / items that cannot be reproduced / bought. Reddit / X posts as they generally have zero added value compared to repositories.
 
-Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev) or some other cryptic listing, but most are not as this is a very niche topic here. I'm not affiliated with any online "retro community" anyway. Most of them just sucks due to a handful of weirdos. I'm maintaining this list updated for my own nerdy satisfaction only. Consider that I'm definitely bored with the topic when updates cease.
+Some projets are probably yet listed in the [awesome-gbdev project](https://github.com/gbdev/awesome-gbdev) or some other cryptic listing, but most are not as this is a very niche topic here. I'm not affiliated with any online retro community anyway. I'm maintaining this list updated for my own nerdy satisfaction only. Consider that I'm definitely bored with the topic when updates cease.
 
 PRs are welcome if I've forgotten your awesome (and documented enough) project. That said, let's dive in !
 
