@@ -182,7 +182,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 # Social media
 
  ## Dedicated servers
-- [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods.
+- [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods. But it's Discord, so with all its weirdos and dramas.
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts. Most big guns in the topic are yet members.
 
  ## Interesting articles/sites and miscellaneous stuff
