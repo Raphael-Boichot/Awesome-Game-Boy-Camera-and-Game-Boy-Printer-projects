@@ -168,7 +168,11 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [GYS 056220](https://www.conrad.fr/fr/p/gys-rouleau-056220-largeur-38-mm-longueur-6-m-2-pc-s-2108650.html), a 38 mm wide paper for French car battery testers, ultra sharp results on my own side, rolls directly entering the printer compartment, can be purchased in Europe, sold by packets of 2 rolls.
 - [Tillrollking](https://www.tillrollking.co.uk/thermal-rolls) (UK) sells fresh 38 mm thermal paper roll (validated on [Reddit](https://www.reddit.com/r/Gameboy/comments/d2sq77/game_boy_printer_paper_alternative/)) by packets of 20.
 - [Nakagawa Manufacturing](https://www.onlinecomponents.com/en/nakagawa-manufacturing/nap0038006-12002055.html) also produced the NAP-0038-006 and NAP-0038-009 thermal papers which are 38 mm wide (not tested on my side, minimal order is 100 rolls, a bit too much for my own use).
+- Some Brothers label printers use a 38 mm thermal paper, referenced DK-22225, [available on Amazon in Europe](https://www.amazon.fr/BETCKEY-Compatible-Remplacement-Imprimantes-d%C3%89tiquettes/dp/B08Q7L2KH4) (untested).
+- The KORES AR3845 also uses a [38 mm thermal paper](https://www.bruneau.fr/product/bobines-caisses-calculatrices-ar3845-38-mm-x-l-45-m-o-70-mm-1-pli-s-paquet-5/8294478), but the paper itself has no reference (untested).
 - Some other close enough thermal paper references, 37 mm wide: [Exacompta 40911E](https://www.amazon.fr/EXACOMPTA-40911E-Exacompta-thermor%C3%A9tractable/dp/B07GTL4PGT?th=1), [Ultrak 499 Paper](http://www.rjh.org.uk/stopwatch/documentation/499.pdf) and [TH37-30](https://www.fruugo.co.uk/th37-30-thermal-till-rolls/p-133744763-282015943).
+
+Some brands of 38 mm thermal papers feature pre-cut sticky labels, but based on others’ tests, these perform poorly — the paper is too thick to feed smoothly. I can’t recommend any brand for this type.
 
 ## Shell mods
 - [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
