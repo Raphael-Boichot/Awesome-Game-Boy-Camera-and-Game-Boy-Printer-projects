@@ -204,3 +204,4 @@ Some brands of 38 mm thermal papers feature pre-cut sticky labels, but based on 
 - [Pocket Camera Compilation](https://archive.org/details/CDK021), a chiptune compilation made only with Trippy-H.
 - [Attack of the fluffy monster](https://odditysoft.blogspot.com/2021/12/i-made-game-on-gb-camera-and-heres-how.html) by Twarda8, the first video game made with a Game Boy Camera !
 - [Secrets about the Pocket Camera](https://www.jofamo.com/blog/secrets-of-the-pocket-camera) by Jonathan Traynor, some interesting and more or less secret functions of the Pocket Camera.
+- [A GB camera photo zine in a cartridge](https://lmkdots.itch.io/160x128x112) by lmk.dots.
