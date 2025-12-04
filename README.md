@@ -187,7 +187,7 @@ Some brands of 38 mm thermal papers feature pre-cut sticky labels, but based on 
 # Social media
 
  ## Dedicated servers
-- [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods. But it's Discord with all its weirdos and dramas. Sensitive peole, look away.
+- [Game Boy Camera Club Discord](https://disboard.org/fr/server/568464159050694666) (about 1k+ users), a server for Game Boy Camera enthusiasts to share photos, tips and tricks, as well as Game Boy Camera projects and mods. But it's Discord.
 - [Game Boy Camera Club Telegram](https://t.me/gameboycamera) (about 100+ users), the Gameboy Camera lair for Hackers and Enthusiasts. Most big guns in the topic are yet members. Server is more or less active depending on actualities.
 
  ## Interesting articles/sites and miscellaneous stuff
