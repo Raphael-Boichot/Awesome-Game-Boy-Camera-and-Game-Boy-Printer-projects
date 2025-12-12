@@ -72,6 +72,9 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [GB Cam Lab](https://github.com/RomanObaraz/gb-cam-lab) by RomanObaraz, a simple tool for exporting and editing photos from Gameboy Camera save files. Just drop your saves and enjoy your pictures !
 - [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, a command-line tool for extracting Game Boy Camera photos from a save ram (.sav) file and writing them in the PNG format.
 
+## Pixels art tools
+- [Gameboy Camera Frame Editor](https://github.com/nilltronic/Gameboy_Camera_Frame_Editor) by nilltronic, a "quick and dirty" way of designing your own Gameboy camera frames, without the need of image editing software.
+
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
 - [Game Boy Camera CS tilt shift adapter](https://www.thingiverse.com/thing:5488773) by B23N, well, self explanatory.
