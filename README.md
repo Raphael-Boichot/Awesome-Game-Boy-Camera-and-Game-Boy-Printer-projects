@@ -182,10 +182,11 @@ Some brands of 38 mm thermal papers feature pre-cut sticky labels, but based on 
 - [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
 - [Game Boy Pocket Printer paper cover](https://www.printables.com/model/560940-game-boy-pocket-printer-paper-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer paper cover which is frequently lost or broken.
 
-# Unclassifiable projects
+# Unclassifiable projects / dedicated art
 
 - [The Pico Slide Show](https://github.com/Raphael-Boichot/Pico-slide-show) by Raphael-Boichot, a minimalistic and tiny digital frame showing Game Boy Camera images, made with a RP2040 Zero. It directly embeds as much as 540 images into the Raspberry Pi Pico flash memory.
 - [The Game Boy Photo Booth](https://github.com/Staacks/there.oughta.be/tree/master/game-boy-photo-booth) by there oughta be, a mariage photobooth with a Game Boy Camera and a Game Boy Printer as main guests.
+- [3d Print Game Boy Camera Photos](https://toemat.com/posts/game-boy-printer-3d/) by Thomas Renck, turns your photos into stl files ready to print !
 
 # Social media
 
