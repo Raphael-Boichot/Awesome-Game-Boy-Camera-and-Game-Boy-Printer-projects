@@ -71,6 +71,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [gameboy-camera-image-extractor](https://github.com/thies4321/gameboy-camera-image-extractor) by thies4321, requires a flasher.
 - [GB Cam Lab](https://github.com/RomanObaraz/gb-cam-lab) by RomanObaraz, a simple tool for exporting and editing photos from Gameboy Camera save files. Just drop your saves and enjoy your pictures !
 - [Game Boy Camera save RAM photo to PNG](https://github.com/raphnet/gbcam2png) by raphnet, a command-line tool for extracting Game Boy Camera photos from a save ram (.sav) file and writing them in the PNG format.
+- [Game Boy Camera format converter](https://github.com/mjcw88/game-boy-camera-format-converter) by mjcw88, A simple image format converter for the Game Boy Camera and BennVenn Joey Jr.
 
 ## Pixels art tools
 - [Gameboy Camera Frame Editor](https://github.com/nilltronic/Gameboy_Camera_Frame_Editor) by nilltronic, a "quick and dirty" way of designing your own Gameboy camera frames, without the need of image editing software.
@@ -168,6 +169,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [GBC Windows](https://archive.org/details/gbcwindows) by Rubenretro, developped with GB Studio - A spoof of Windows 3.1 with a printer function that works, mostly.
 
 ## Printer paper supplier/references (non sticking)
+- [Compatible thermal paper sold by retrofixes](https://www.retrofixes.com/products/gameboy-printer-paper-rolls-new)
 - [SEIKO S-950 and S-951](https://mignon.hateblo.jp/entry/2021/07/01/003119), paper for Seiko Stopwatches, best known paper to use with the Game Boy Printer, difficult but not impossible to source outside of Japan (sold by packets of 3 rolls).
 - [GYS 056220](https://www.conrad.fr/fr/p/gys-rouleau-056220-largeur-38-mm-longueur-6-m-2-pc-s-2108650.html), a 38 mm wide paper for French car battery testers, ultra sharp results on my own side, rolls directly entering the printer compartment, can be purchased in Europe, sold by packets of 2 rolls.
 - [Tillrollking](https://www.tillrollking.co.uk/thermal-rolls) (UK) sells fresh 38 mm thermal paper roll (validated on [Reddit](https://www.reddit.com/r/Gameboy/comments/d2sq77/game_boy_printer_paper_alternative/)) by packets of 20.
@@ -177,6 +179,9 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - Some other close enough thermal paper references, 37 mm wide: [Exacompta 40911E](https://www.amazon.fr/EXACOMPTA-40911E-Exacompta-thermor%C3%A9tractable/dp/B07GTL4PGT?th=1), [Ultrak 499 Paper](http://www.rjh.org.uk/stopwatch/documentation/499.pdf) and [TH37-30](https://www.fruugo.co.uk/th37-30-thermal-till-rolls/p-133744763-282015943).
 
 Some brands of 38 mm thermal papers feature pre-cut sticky labels, but based on others’ tests, these perform poorly — the paper is too thick to feed smoothly. I can’t recommend any brand for this type.
+
+## Printer paper supplier/references (sticking)
+[Compatible thermal paper sold by ZedLabz](https://www.zedlabz.com/products/compatible-printer-paper-roll-for-nintendo-game-boy-printer-self-adhesive-4-pack-white-zedlabz)
 
 ## Shell mods
 - [Game Boy Printer battery cover](https://www.printables.com/model/892919-game-boy-printer-battery-cover) by gameboycamera. 1:1 remodel of the Game Boy Printer or Game Boy Pocket Printer battery cover which is frequently lost or broken.
