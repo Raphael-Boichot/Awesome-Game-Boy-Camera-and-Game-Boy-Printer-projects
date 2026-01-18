@@ -159,6 +159,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 - [Installing a 9 Volts battery into the Game Boy Printer](https://imgur.com/a/installing-nine-volt-mod-on-game-boy-printer-QOxq2EG) by unknown Reddit user. Lasts for about 100 prints.
 - The [full schematic and gerbers](https://github.com/RWeick/IF-GBP-02-Gameboy-Printer) for the Nintendo Gameboy Printer PCB revision 02, by RWeick.
 - The [Laser Range Finder + Game Boy Printer hack](https://www.flickr.com/photos/joesmooth/albums/72157628221975565/) by Joe Grand, prints images taken with a [laser range finder](https://grandideastudio.com/portfolio/do-it-yourself/laser-range-finder/) invented by the same author.
+- [Nintendo Game Boy Printer Holster](https://www.thingiverse.com/thing:5353619) by maxdoes, this holster lets you easily carry everything you need to make cheap "instant" photos while keeping your hands free ! (the author do not specify what for).
 
 ## Printer custom roms
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter) by reini1305, well, to print banners with the Game Boy Printer.
