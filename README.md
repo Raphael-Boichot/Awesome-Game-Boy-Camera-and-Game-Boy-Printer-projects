@@ -75,6 +75,7 @@ PRs are welcome if I've forgotten your awesome (and documented enough) project. 
 
 ## Pixels art tools
 - [Gameboy Camera Frame Editor](https://github.com/nilltronic/Gameboy_Camera_Frame_Editor) by nilltronic, a "quick and dirty" way of designing your own Gameboy camera frames, without the need of image editing software.
+- [Game Boy Camera screenshot extractor](https://github.com/tjcouch1/game-boy-camera-screenshot-extractor) by TJ Couch, Extracts and cleans a Game Boy Camera image from a screenshot.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
