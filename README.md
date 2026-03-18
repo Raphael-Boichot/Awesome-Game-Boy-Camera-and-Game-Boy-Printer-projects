@@ -194,7 +194,9 @@ Some brands of 38 mm thermal papers feature pre-cut sticky labels, but based on 
 
 - [The Pico Slide Show](https://github.com/Raphael-Boichot/Pico-slide-show) by Raphael-Boichot, a minimalistic and tiny digital frame showing Game Boy Camera images, made with a RP2040 Zero. It directly embeds as much as 540 images into the Raspberry Pi Pico flash memory.
 - [The Game Boy Photo Booth](https://github.com/Staacks/there.oughta.be/tree/master/game-boy-photo-booth) by there oughta be, a mariage photobooth with a Game Boy Camera and a Game Boy Printer as main guests.
+- [The GB Photo Booth](https://github.com/hitsave/gameboy-photobooth) by hitsave, a small photo booth app for the Game Boy camera, using the webcam stream from the GB Interceptor. Captures photos, composites them onto static templates, and prints to a Phomemo M04S thermal printer.
 - [3d Print Game Boy Camera Photos](https://toemat.com/posts/game-boy-printer-3d/) by Thomas Renck, turns your photos into stl files ready to print !
+- [The Game Boy Camera Picture Extractor](https://github.com/tjcouch1/game-boy-camera-picture-extractor) by tjcouch1, Extracts and cleans a Game Boy Camera image from a screen capture.
 
 # Social media
 
