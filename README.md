@@ -151,7 +151,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - An [Arduino library](https://github.com/octavifs/GBPrinter) for Game Boy Printer, by octavifs.
 - Another [Arduino library](https://github.com/karpour/GameBoyPrinter-Arduino) for Game Boy Printer, by karpour.
 - Yet another [Arduino library](https://github.com/davedarko/GBPrinter) for Game Boy Printer, by davedarko.
-- Printing on the Game Boy Printer [using an STM32F4](https://github.com/Dhole/gb-link-host) by Dhole.
+- Printing on the Game Boy Printer [using an STM32F4](https://github.com/Dhole/gb-link-host) by Dhole (story [here](https://dhole.github.io/post/gameboy_serial_3/)).
 - Printing on the Game Boy Printer [using an Arduino and SD shield](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer) by Raphael-Boichot.
 - [Discord printer bot](https://github.com/Squaresweets/GBPrinter-discord-bot) by Squaresweets and the same [without the Discord code](https://github.com/KuestenKeks/pc-to-gb-printer) by KuestenKeks.
 - An [Arduino interface](https://github.com/jonnop123/Gameboy_Printer_Arduino/tree/master) by jonnop123, can send images and text to the printer.
