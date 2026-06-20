@@ -2,7 +2,7 @@
 
 ## Offensive disclaimer
 
-The listing rules to enter the list are quite simple:
+The rules to enter the list are quite simple:
 
 **Are listed:** 
 - Projects with a proof that they did something and / or with a very minimal level of explanation.
