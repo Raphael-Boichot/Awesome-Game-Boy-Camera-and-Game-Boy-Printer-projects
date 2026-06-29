@@ -102,6 +102,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [Gallery for Gameboy Camera](https://github.com/ljvmiranda921/gallery) by ljvmiranda921, online showcase of photos using the Game Boy Camera. Looks neat in the example.
 - [The Game Boy Camera Picture Extractor](https://github.com/tjcouch1/game-boy-camera-picture-extractor) by tjcouch1, Extracts and cleans a Game Boy Camera image from a screen capture. Very active project.
 - [GB Cam Formatter](https://github.com/baronunread/gbcam-formatter) by baronunread, bulk-format Game Boy Camera photos in [your browser](https://baronunread.github.io/gbcam-formatter/). Runs entirely client-side. No uploads, no server.
+- [Contact Sheet](https://github.com/cristofercruz/gb-gallery-plugin-contact-sheet) by cristofercruz, a [GB‑Printer Web](https://github.com/HerrZatacke/gb-printer-web) plugin that let you arrange a selection of images into a single contact sheet (a grid of numbered thumbnails) and download it as PNG / JPG / WebP.
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
