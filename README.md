@@ -44,7 +44,6 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - The [Game Boy Camera save format](https://github.com/Raphael-Boichot/Inject-pictures-in-your-Game-Boy-Camera-saves) explained, by Raphael-Boichot. Cheat at minigames, unlock hidden features, calibrate your camera, and more !
 - [GB camera frame replacer](https://github.com/cristofercruz/gb-camera-frames) by cristofercruz, Python script to replace the built-in frames in the Game Boy Camera rom with your own.
 - [Game Boy Camera Manager](https://github.com/marcrobledo/game-boy-camera-manager) by marcrobledo, A swiss knife for Game Boy Camera data managing (both savegame SRAM and ROM).
-- [Game Boy Camera recompilation](https://github.com/GB-Recomp/gbcamera), using [gb-recompiled](https://github.com/GB-Recomp/gb-recompiled), a "static recompiler" for original GameBoy ROMs that translates Z80 assembly directly into "portable, modern C code". Honestly the biggest fucking mess of obfuscated spaghetti code I ever saw. Fly, you fools !
 
 ## Analogue Pocket Frenzy
 - [PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll) by Guillain-RDCDE, Verilog mod for infinite camera roll for the Analogue Pocket !
