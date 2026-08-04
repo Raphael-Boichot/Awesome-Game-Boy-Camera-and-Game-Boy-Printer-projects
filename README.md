@@ -31,6 +31,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [Game Boy Mini Camera](https://github.com/gameboycamera/game-boy-mini-camera) by gameboycamera (mini size board) and custom [stickers](https://github.com/supertazon/Game-Boy-Mini-Camera-Famicom-styled-label).
 - [PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/), a combined all-in-one (AIO) PicNrec + flashable camera and the plain [Gameboy Camera Flash Cart](https://shop.insidegadgets.com/product/gameboy-camera-flash-cart/) (basically the AIO less the [PicNRec](https://shop.insidegadgets.com/product/gameboy-camera-picnrec/)), by InsideGadget (regular size board).
 - [A MAC-GBD replica of the Game Boy Camera](https://github.com/krovma/pocket-free-cam/tree/master) by krovma. In its current state, hard to build without doing educated guesses.
+- [BerryMG](https://github.com/kurogedelic/BerryMG) by kurogedelic, a RP2354 cartridge for the Game Boy and Game Boy Color with planned sensor support, stay tuned.
 
 ## FRAM mod
 - [FRAM camera mod](https://gbdev.gg8.se/forums/viewtopic.php?id=843) by famiac. Honestly, never saw any working unit but why not. I anyway advise increasing the 22 pF caps to at least 33 pF.
@@ -180,6 +181,9 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [Discord printer bot](https://github.com/Squaresweets/GBPrinter-discord-bot) by Squaresweets and the same [without the Discord code](https://github.com/KuestenKeks/pc-to-gb-printer) by KuestenKeks.
 - An [Arduino interface](https://github.com/jonnop123/Gameboy_Printer_Arduino/tree/master) by jonnop123, can send images and text to the printer.
 - [PocketPrinter](https://github.com/karugaru/PocketPrinter) by karugaru, a library for handling the Pocket Printer with Arduino (unfinished documentation).
+
+## Android to printer interfaces
+- [Android Boy Camera](https://github.com/DuckWader/Android-Boy-Camera) by DuckWader, turns an Android phone into a camera and image editor for the Nintendo Game Boy Printer. It can prepare authentic four-shade images, create vertical collages and send print data to a real printer through an Arduino USB adapter.
 
 ## Printer hacks
 - The [Game Boy Printer sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) by mofosyne, a middleman to record actual communication between a Game Boy and a printer.
