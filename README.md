@@ -47,6 +47,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 
 ## Analogue Pocket Frenzy
 - [PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll) by Guillain-RDCDE, Verilog mod for infinite camera roll for the Analogue Pocket !
+- [Game Boy Printer for Analogue Pocket](https://github.com/BananaWiFi/openFPGA-Game-Boy-Printer) by BananaWiFi, a Game Boy Printer core for Analogue Pocket openFPGA.
 
 ## Camera/sensor hacks
 - The [DashBoy Camera](https://github.com/Raphael-Boichot/Mitsubishi-M64282FP-dashcam) by Raphael-Boichot, a DIY digital camera using the Mitsubishi M64282FP image sensor and a Raspberry Pi Pico. An ESP32 prototype is proposed [here](https://github.com/Raphael-Boichot/Play-with-the-Game-Boy-Camera-Mitsubishi-M64282FP-sensor/tree/main/ESP32_version_beta) (beware, it's a piece of crap compared to the RP2040 version).
