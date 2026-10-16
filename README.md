@@ -8,7 +8,7 @@ The rules to enter the list are quite simple:
 - Projects with a proof that they did something and / or with a very minimal level of explanation.
 - Non open source commercial devices because they can be dismantled to look inside.
 - Compiled codes without the sources **ONLY** if they have historical / preservation value.
-- A.I. generated projects if they don't fall under the next rules
+- A.I. generated projects if they don't fall under the next rules.
 
 **Are not listed:** 
 - Non primary sources (citations of citations, A.I. generated slop, etc.). I want the source !
