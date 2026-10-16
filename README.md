@@ -161,6 +161,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - The [Serial Boy](https://github.com/francoiswnel/Serial-Boy) by francoiswnel, a breakout PCB to connect the serial cable to the Arduino Game Boy Printer emulator.
 - A [repository](https://github.com/breadbored/Gameboy-Reverse-Engineering) containing many stuff about Game Boy reverse engineering, including an alledged functional Pi Pico printer emulator, by breadbored.
 - [Game Boy Printer Web Client](https://github.com/GB-Link/gb-printer-web) by GB-Link, Game boy Printer emulator to print from GB hardware to PC, with [GBLink firmware](https://github.com/GB-Link/GBLink-Firmware).
+- [vbg_printer](https://github.com/Hippocrates/vgb_printer) by Hippocrates, A very simple arduino-based implementation of the GameBoy Printer serial protocol, used to recover images from a GameBoy Camera.
   
 ## Emulator overlays
 - The [Game Boy Printer web](https://herrzatacke.github.io/gb-printer-web/#/home) by herrzatacke, website to decode, arrange and store images from the Arduino Game Boy Printer emulator and saves. The project page is [here](https://github.com/HerrZatacke/gb-printer-web/).
