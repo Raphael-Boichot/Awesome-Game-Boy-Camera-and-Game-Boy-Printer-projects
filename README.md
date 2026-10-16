@@ -181,6 +181,12 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [Discord printer bot](https://github.com/Squaresweets/GBPrinter-discord-bot) by Squaresweets and the same [without the Discord code](https://github.com/KuestenKeks/pc-to-gb-printer) by KuestenKeks.
 - An [Arduino interface](https://github.com/jonnop123/Gameboy_Printer_Arduino/tree/master) by jonnop123, can send images and text to the printer.
 - [PocketPrinter](https://github.com/karugaru/PocketPrinter) by karugaru, a library for handling the Pocket Printer with Arduino (unfinished documentation).
+- [Game Boy Lab](https://github.com/hazy2go/gameboy-lab) by hazy2go, Homebrew for the original Game Boy that runs on real hardware. Chat with Claude, print your pictures, and follow along as it gets built.
+- [gb-link-usb](https://github.com/hazy2go/gb-link-usb) by hazy2go, Connect a Game Boy's link port to your computer over USB. Print from a real Game Boy straight to PNG, or watch live crypto prices from SODAX on it, with a Raspberry Pi Pico 2 W and one cut link cable.
+
+## Game Boy Advance to printer interfaces
+- [AdvancePrint](https://github.com/KyberCritter/AdvancePrint) by KyberCritter, A small, reusable Game Boy Printer driver for the Game Boy Advance.
+- [GBScribe](https://github.com/KyberCritter/GBScribe) by KyberCritter, A homebrew word processor and pixel-art tool for Game Boy Advance hardware that prints to a real Game Boy Printer.
 
 ## Android to printer interfaces
 - [Android Boy Camera](https://github.com/DuckWader/Android-Boy-Camera) by DuckWader, turns an Android phone into a camera and image editor for the Nintendo Game Boy Printer. It can prepare authentic four-shade images, create vertical collages and send print data to a real printer through an Arduino USB adapter.
