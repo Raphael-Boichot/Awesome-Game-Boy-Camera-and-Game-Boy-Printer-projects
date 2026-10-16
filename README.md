@@ -103,6 +103,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 
 ## Pixels art tools
 - [Gameboy Camera Frame Editor](https://github.com/nilltronic/Gameboy_Camera_Frame_Editor) by nilltronic, a "quick and dirty" way of designing your own Gameboy camera frames, without the need of image editing software.
+- [Gameboy Camera Wi-Fi Printer Homepage](https://github.com/nilltronic/wifiprinter) by nilltronic, Gameboy camera Wi-Fi printer webpages.
 - [Gallery for Gameboy Camera](https://github.com/ljvmiranda921/gallery) by ljvmiranda921, online showcase of photos using the Game Boy Camera. Looks neat in the example.
 - [The Game Boy Camera Picture Extractor](https://github.com/tjcouch1/game-boy-camera-picture-extractor) by tjcouch1, Extracts and cleans a Game Boy Camera image from a screen capture. Very active project.
 - [GB Cam Formatter](https://github.com/baronunread/gbcam-formatter) by baronunread, bulk-format Game Boy Camera photos in [your browser](https://baronunread.github.io/gbcam-formatter/). Runs entirely client-side. No uploads, no server.
