@@ -100,8 +100,8 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [gbacam](https://github.com/Alexsandr0x/gbacam) by Alexsandr0x, a basic Python project to experiment with real-time access to the memory of the Nintendo Game Boy Camera cartridge.
 - [GBxCAM Viewer](https://github.com/tolik518/GBxCAM-Viewer) by tolik518, an Android app to dump photos directly from your Game Boy Camera with a GBxCart, derived from FlashGBX USB protocol implementation.
 - [gb_camera](https://github.com/neppermintp/gb_camera) by neppermintp, a tool for managing GameBoy Camera dumps.
+- [pocket-camera-save-parser](https://github.com/egorkaru/pocket-camera-save-parser) by egorkaru, a parser for Pocket Camera & Game Boy Camera save file.
  
-
 ## Pixels art tools
 - [Gameboy Camera Frame Editor](https://github.com/nilltronic/Gameboy_Camera_Frame_Editor) by nilltronic, a "quick and dirty" way of designing your own Gameboy camera frames, without the need of image editing software.
 - [Gameboy Camera Wi-Fi Printer Homepage](https://github.com/nilltronic/wifiprinter) by nilltronic, Gameboy camera Wi-Fi printer webpages.
@@ -110,6 +110,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [GB Cam Formatter](https://github.com/baronunread/gbcam-formatter) by baronunread, bulk-format Game Boy Camera photos in [your browser](https://baronunread.github.io/gbcam-formatter/). Runs entirely client-side. No uploads, no server.
 - [Contact Sheet](https://github.com/cristofercruz/gb-gallery-plugin-contact-sheet) by cristofercruz, a [GB‑Printer Web](https://github.com/HerrZatacke/gb-printer-web) plugin that let you arrange a selection of images into a single contact sheet (a grid of numbered thumbnails) and download it as PNG / JPG / WebP.
 - [Game Boy Camera processing](https://github.com/AnnetteBalaschak/Joey-Jr-Game-Boy-Camera-Processing) by AnnetteBalaschak, Upscales and recolors a set of images captured on the Game Boy Camera.
+- [Funtoshop](https://funtoshop.sourceforge.net/), The Game Boy Camera's Photoshop!
 
 ## Lens/shell mods
 - [Game Boy Camera to CS](https://www.thingiverse.com/thing:5024326) lens mount by HerrZatacke (requires shell).
