@@ -101,6 +101,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 - [GBxCAM Viewer](https://github.com/tolik518/GBxCAM-Viewer) by tolik518, an Android app to dump photos directly from your Game Boy Camera with a GBxCart, derived from FlashGBX USB protocol implementation.
 - [gb_camera](https://github.com/neppermintp/gb_camera) by neppermintp, a tool for managing GameBoy Camera dumps.
 - [pocket-camera-save-parser](https://github.com/egorkaru/pocket-camera-save-parser) by egorkaru, a parser for Pocket Camera & Game Boy Camera save file.
+- [Py Gbcam Extractor](https://gitlab.com/DasMoorhuhn/py-gbcam-extractor) by DasMoorhuhn, yet another Gameboy Camera savestate extratcor.
  
 ## Pixels art tools
 - [Gameboy Camera Frame Editor](https://github.com/nilltronic/Gameboy_Camera_Frame_Editor) by nilltronic, a "quick and dirty" way of designing your own Gameboy camera frames, without the need of image editing software.
