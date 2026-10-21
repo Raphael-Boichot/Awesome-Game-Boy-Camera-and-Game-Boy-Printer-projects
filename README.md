@@ -196,6 +196,7 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 ## Game Boy Advance to printer interfaces
 - [AdvancePrint](https://github.com/KyberCritter/AdvancePrint) by KyberCritter, A small, reusable Game Boy Printer driver for the Game Boy Advance.
 - [GBScribe](https://github.com/KyberCritter/GBScribe) by KyberCritter, A homebrew word processor and pixel-art tool for Game Boy Advance hardware that prints to a real Game Boy Printer.
+- [PixelPoach](https://github.com/KyberCritter/PixelPoach) by KyberCritter, A word processor and drawing tool for the GBA that connects to the Game Boy Printer.
 
 ## Android to printer interfaces
 - [Android Boy Camera](https://github.com/DuckWader/Android-Boy-Camera) by DuckWader, turns an Android phone into a camera and image editor for the Nintendo Game Boy Printer. It can prepare authentic four-shade images, create vertical collages and send print data to a real printer through an Arduino USB adapter.
