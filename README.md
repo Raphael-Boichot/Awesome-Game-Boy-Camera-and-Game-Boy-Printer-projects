@@ -214,6 +214,9 @@ Examples of what you can tinker entering the rabbit hole (Image credit: Raphaël
 ## Printer custom libraries
 - [GBDK-2020 Library for the Gameboy Pocket Printer](https://github.com/T0biasCZe/printlib2) by T0biasCZe. No Readme.md but enough examples for who knows what to do...
 
+## ROM disassembly
+- [Game Boy Printer disassembly](https://github.com/Raphael-Boichot/Game-Boy-Printer-disassembly) by Raphael-Boichot, disassembly of the Game Boy Printer, TMP87C840 Toshiba ROM version.
+
 ## Printer custom ROMs
 - [GB Banner printer](https://github.com/reini1305/gb_bannerprinter) by reini1305, well, to print banners with the Game Boy Printer.
 - [Snake](https://github.com/reini1305/gb_snake) by reini1305, you can print the highscore from the main screen.
